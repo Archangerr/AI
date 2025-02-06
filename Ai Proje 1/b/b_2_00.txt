@@ -1,0 +1,10001 @@
+Step 1
+B, D, D, D
+suck
+B, D, C, D
+
+Step 2
+B, D, D, D
+suck
+B, D, C, D
+
+Step 3
+B, D, C, D
+Left
+A, D, C, D
+
+Step 4
+A, D, D, D
+suck
+A, C, D, D
+
+Step 5
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 6
+A, D, D, D
+suck
+A, C, D, D
+
+Step 7
+A, D, D, D
+suck
+A, C, D, D
+
+Step 8
+A, D, D, D
+suck
+A, C, D, D
+
+Step 9
+A, D, D, D
+suck
+A, C, D, D
+
+Step 10
+A, D, D, D
+suck
+A, C, D, D
+
+Step 11
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 12
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 13
+A, C, D, D
+Right
+B, C, D, D
+
+Step 14
+B, D, D, D
+suck
+B, D, C, D
+
+Step 15
+B, D, C, D
+Right
+C, D, C, D
+
+Step 16
+C, D, C, D
+suck
+C, D, C, C
+
+Step 17
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 18
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 19
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 20
+C, D, C, C
+Left
+B, D, C, C
+
+Step 21
+B, D, C, C
+Right
+C, D, C, C
+
+Step 22
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 23
+C, D, D, D
+suck
+C, D, D, C
+
+Step 24
+C, D, D, C
+Left
+B, D, D, C
+
+Step 25
+B, D, D, C
+suck
+B, D, C, C
+
+Step 26
+B, D, C, C
+Left
+A, D, C, C
+
+Step 27
+A, D, C, C
+suck
+A, C, C, C
+
+Step 28
+A, C, C, C
+Right
+B, C, C, C
+
+Step 29
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 30
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 31
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 32
+B, D, D, D
+suck
+B, D, C, D
+
+Step 33
+B, D, D, D
+suck
+B, D, C, D
+
+Step 34
+B, D, C, D
+noOp
+B, D, C, D
+
+Step 35
+B, D, C, D
+Right
+C, D, C, D
+
+Step 36
+C, D, C, D
+suck
+C, D, C, C
+
+Step 37
+C, D, C, C
+Left
+B, D, C, C
+
+Step 38
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 39
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 40
+B, D, C, C
+Right
+C, D, C, C
+
+Step 41
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 42
+C, D, C, C
+Left
+B, D, C, C
+
+Step 43
+B, D, D, C
+suck
+B, D, C, C
+
+Step 44
+B, D, C, C
+Right
+C, D, C, C
+
+Step 45
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 46
+C, D, C, C
+Left
+B, D, C, C
+
+Step 47
+B, D, C, C
+Right
+C, D, C, C
+
+Step 48
+C, D, C, C
+Left
+B, D, C, C
+
+Step 49
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 50
+B, D, C, C
+Right
+C, D, C, C
+
+Step 51
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 52
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 53
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 54
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 55
+C, D, C, C
+Left
+B, D, C, C
+
+Step 56
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 57
+B, D, D, C
+suck
+B, D, C, C
+
+Step 58
+B, D, D, C
+suck
+B, D, C, C
+
+Step 59
+B, D, C, C
+Right
+C, D, C, C
+
+Step 60
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 61
+C, D, C, C
+Left
+B, D, C, C
+
+Step 62
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 63
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 64
+B, D, C, C
+Right
+C, D, C, C
+
+Step 65
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 66
+C, D, C, C
+Left
+B, D, C, C
+
+Step 67
+B, D, D, D
+suck
+B, D, C, D
+
+Step 68
+B, D, C, D
+Left
+A, D, C, D
+
+Step 69
+A, D, C, D
+suck
+A, C, C, D
+
+Step 70
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 71
+A, D, D, D
+suck
+A, C, D, D
+
+Step 72
+A, D, D, D
+suck
+A, C, D, D
+
+Step 73
+A, D, D, D
+suck
+A, C, D, D
+
+Step 74
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 75
+A, D, D, D
+suck
+A, C, D, D
+
+Step 76
+A, D, D, D
+suck
+A, C, D, D
+
+Step 77
+A, D, D, D
+suck
+A, C, D, D
+
+Step 78
+A, D, D, D
+suck
+A, C, D, D
+
+Step 79
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 80
+A, C, D, D
+Right
+B, C, D, D
+
+Step 81
+B, D, D, D
+suck
+B, D, C, D
+
+Step 82
+B, D, C, D
+Right
+C, D, C, D
+
+Step 83
+C, D, C, D
+suck
+C, D, C, C
+
+Step 84
+C, D, C, C
+Left
+B, D, C, C
+
+Step 85
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 86
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 87
+B, D, C, C
+Left
+A, D, C, C
+
+Step 88
+A, D, C, C
+suck
+A, C, C, C
+
+Step 89
+A, D, D, D
+suck
+A, C, D, D
+
+Step 90
+A, D, D, D
+suck
+A, C, D, D
+
+Step 91
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 92
+A, D, D, D
+suck
+A, C, D, D
+
+Step 93
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 94
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 95
+A, C, D, D
+Right
+B, C, D, D
+
+Step 96
+B, D, D, D
+suck
+B, D, C, D
+
+Step 97
+B, D, C, D
+Right
+C, D, C, D
+
+Step 98
+C, D, D, D
+suck
+C, D, D, C
+
+Step 99
+C, D, D, C
+Left
+B, D, D, C
+
+Step 100
+B, D, D, C
+suck
+B, D, C, C
+
+Step 101
+B, D, C, C
+Left
+A, D, C, C
+
+Step 102
+A, D, C, C
+suck
+A, C, C, C
+
+Step 103
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 104
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 105
+A, D, D, D
+suck
+A, C, D, D
+
+Step 106
+A, D, D, D
+suck
+A, C, D, D
+
+Step 107
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 108
+A, D, D, D
+suck
+A, C, D, D
+
+Step 109
+A, D, D, D
+suck
+A, C, D, D
+
+Step 110
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 111
+A, D, D, D
+suck
+A, C, D, D
+
+Step 112
+A, D, D, D
+suck
+A, C, D, D
+
+Step 113
+A, C, D, D
+Right
+B, C, D, D
+
+Step 114
+B, C, D, D
+suck
+B, C, C, D
+
+Step 115
+B, D, D, D
+suck
+B, D, C, D
+
+Step 116
+B, D, C, D
+Right
+C, D, C, D
+
+Step 117
+C, D, D, D
+suck
+C, D, D, C
+
+Step 118
+C, D, D, C
+Left
+B, D, D, C
+
+Step 119
+B, D, D, C
+suck
+B, D, C, C
+
+Step 120
+B, D, D, C
+suck
+B, D, C, C
+
+Step 121
+B, D, D, D
+suck
+B, D, C, D
+
+Step 122
+B, D, C, D
+Left
+A, D, C, D
+
+Step 123
+A, D, C, D
+suck
+A, C, C, D
+
+Step 124
+A, D, C, D
+suck
+A, C, C, D
+
+Step 125
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 126
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 127
+A, D, C, D
+suck
+A, C, C, D
+
+Step 128
+A, D, D, D
+suck
+A, C, D, D
+
+Step 129
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 130
+A, D, D, D
+suck
+A, C, D, D
+
+Step 131
+A, D, D, D
+suck
+A, C, D, D
+
+Step 132
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 133
+A, C, D, D
+Right
+B, C, D, D
+
+Step 134
+B, C, D, D
+suck
+B, C, C, D
+
+Step 135
+B, D, D, D
+suck
+B, D, C, D
+
+Step 136
+B, D, C, D
+Right
+C, D, C, D
+
+Step 137
+C, D, C, D
+suck
+C, D, C, C
+
+Step 138
+C, D, C, C
+Left
+B, D, C, C
+
+Step 139
+B, D, D, C
+suck
+B, D, C, C
+
+Step 140
+B, D, C, C
+Left
+A, D, C, C
+
+Step 141
+A, D, D, C
+suck
+A, C, D, C
+
+Step 142
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 143
+A, D, D, C
+suck
+A, C, D, C
+
+Step 144
+A, D, D, C
+suck
+A, C, D, C
+
+Step 145
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 146
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 147
+A, D, D, C
+suck
+A, C, D, C
+
+Step 148
+A, D, D, C
+suck
+A, C, D, C
+
+Step 149
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 150
+A, D, D, C
+suck
+A, C, D, C
+
+Step 151
+A, D, D, C
+suck
+A, C, D, C
+
+Step 152
+A, C, D, C
+Right
+B, C, D, C
+
+Step 153
+B, C, D, C
+suck
+B, C, C, C
+
+Step 154
+B, C, C, C
+Right
+C, C, C, C
+
+Step 155
+C, D, C, C
+Left
+B, D, C, C
+
+Step 156
+B, D, C, C
+Left
+A, D, C, C
+
+Step 157
+A, D, D, C
+suck
+A, C, D, C
+
+Step 158
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 159
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 160
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 161
+A, D, D, C
+suck
+A, C, D, C
+
+Step 162
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 163
+A, D, D, D
+suck
+A, C, D, D
+
+Step 164
+A, D, D, D
+suck
+A, C, D, D
+
+Step 165
+A, C, D, D
+Right
+B, C, D, D
+
+Step 166
+B, C, D, D
+suck
+B, C, C, D
+
+Step 167
+B, D, C, D
+Right
+C, D, C, D
+
+Step 168
+C, D, C, D
+suck
+C, D, C, C
+
+Step 169
+C, D, C, C
+Left
+B, D, C, C
+
+Step 170
+B, D, D, C
+suck
+B, D, C, C
+
+Step 171
+B, D, C, C
+Left
+A, D, C, C
+
+Step 172
+A, D, D, C
+suck
+A, C, D, C
+
+Step 173
+A, D, D, C
+suck
+A, C, D, C
+
+Step 174
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 175
+A, D, D, D
+suck
+A, C, D, D
+
+Step 176
+A, D, D, D
+suck
+A, C, D, D
+
+Step 177
+A, D, D, D
+suck
+A, C, D, D
+
+Step 178
+A, D, D, D
+suck
+A, C, D, D
+
+Step 179
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 180
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 181
+A, D, D, D
+suck
+A, C, D, D
+
+Step 182
+A, D, D, D
+suck
+A, C, D, D
+
+Step 183
+A, D, D, D
+suck
+A, C, D, D
+
+Step 184
+A, D, D, D
+suck
+A, C, D, D
+
+Step 185
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 186
+A, D, D, D
+suck
+A, C, D, D
+
+Step 187
+A, D, D, D
+suck
+A, C, D, D
+
+Step 188
+A, C, D, D
+Right
+B, C, D, D
+
+Step 189
+B, C, D, D
+suck
+B, C, C, D
+
+Step 190
+B, C, C, D
+Right
+C, C, C, D
+
+Step 191
+C, D, C, D
+suck
+C, D, C, C
+
+Step 192
+C, D, C, C
+Left
+B, D, C, C
+
+Step 193
+B, D, C, C
+Left
+A, D, C, C
+
+Step 194
+A, D, C, C
+suck
+A, C, C, C
+
+Step 195
+A, D, D, C
+suck
+A, C, D, C
+
+Step 196
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 197
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 198
+A, D, D, C
+suck
+A, C, D, C
+
+Step 199
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 200
+A, D, D, C
+suck
+A, C, D, C
+
+Step 201
+A, D, D, C
+suck
+A, C, D, C
+
+Step 202
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 203
+A, C, D, C
+Right
+B, C, D, C
+
+Step 204
+B, C, D, C
+suck
+B, C, C, C
+
+Step 205
+B, D, C, C
+Right
+C, D, C, C
+
+Step 206
+C, D, C, C
+Left
+B, D, C, C
+
+Step 207
+B, D, D, D
+suck
+B, D, C, D
+
+Step 208
+B, D, C, D
+Left
+A, D, C, D
+
+Step 209
+A, D, C, D
+suck
+A, C, C, D
+
+Step 210
+A, D, C, D
+suck
+A, C, C, D
+
+Step 211
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 212
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 213
+A, D, C, D
+suck
+A, C, C, D
+
+Step 214
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 215
+A, D, C, D
+suck
+A, C, C, D
+
+Step 216
+A, D, C, D
+suck
+A, C, C, D
+
+Step 217
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 218
+A, D, D, D
+suck
+A, C, D, D
+
+Step 219
+A, C, D, D
+Right
+B, C, D, D
+
+Step 220
+B, D, D, D
+suck
+B, D, C, D
+
+Step 221
+B, D, C, D
+Right
+C, D, C, D
+
+Step 222
+C, D, C, D
+suck
+C, D, C, C
+
+Step 223
+C, D, C, C
+Left
+B, D, C, C
+
+Step 224
+B, D, C, C
+Left
+A, D, C, C
+
+Step 225
+A, D, D, C
+suck
+A, C, D, C
+
+Step 226
+A, D, D, C
+suck
+A, C, D, C
+
+Step 227
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 228
+A, D, D, C
+suck
+A, C, D, C
+
+Step 229
+A, D, D, C
+suck
+A, C, D, C
+
+Step 230
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 231
+A, D, D, C
+suck
+A, C, D, C
+
+Step 232
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 233
+A, D, D, C
+suck
+A, C, D, C
+
+Step 234
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 235
+A, C, D, C
+Right
+B, C, D, C
+
+Step 236
+B, D, D, C
+suck
+B, D, C, C
+
+Step 237
+B, D, D, D
+suck
+B, D, C, D
+
+Step 238
+B, D, C, D
+Right
+C, D, C, D
+
+Step 239
+C, D, C, D
+suck
+C, D, C, C
+
+Step 240
+C, D, C, C
+Left
+B, D, C, C
+
+Step 241
+B, D, C, C
+Left
+A, D, C, C
+
+Step 242
+A, D, C, C
+suck
+A, C, C, C
+
+Step 243
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 244
+A, D, D, D
+suck
+A, C, D, D
+
+Step 245
+A, D, D, D
+suck
+A, C, D, D
+
+Step 246
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 247
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 248
+A, D, D, D
+suck
+A, C, D, D
+
+Step 249
+A, D, D, D
+suck
+A, C, D, D
+
+Step 250
+A, D, D, D
+suck
+A, C, D, D
+
+Step 251
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 252
+A, C, D, D
+Right
+B, C, D, D
+
+Step 253
+B, D, D, D
+suck
+B, D, C, D
+
+Step 254
+B, D, C, D
+Right
+C, D, C, D
+
+Step 255
+C, D, C, D
+suck
+C, D, C, C
+
+Step 256
+C, D, C, C
+Left
+B, D, C, C
+
+Step 257
+B, D, C, C
+Left
+A, D, C, C
+
+Step 258
+A, D, C, C
+suck
+A, C, C, C
+
+Step 259
+A, D, D, C
+suck
+A, C, D, C
+
+Step 260
+A, D, D, C
+suck
+A, C, D, C
+
+Step 261
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 262
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 263
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 264
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 265
+A, D, D, C
+suck
+A, C, D, C
+
+Step 266
+A, D, D, C
+suck
+A, C, D, C
+
+Step 267
+A, C, D, C
+Right
+B, C, D, C
+
+Step 268
+B, D, D, D
+suck
+B, D, C, D
+
+Step 269
+B, D, C, D
+Right
+C, D, C, D
+
+Step 270
+C, D, C, D
+suck
+C, D, C, C
+
+Step 271
+C, D, D, D
+suck
+C, D, D, C
+
+Step 272
+C, D, D, C
+Left
+B, D, D, C
+
+Step 273
+B, D, D, C
+suck
+B, D, C, C
+
+Step 274
+B, D, C, C
+Left
+A, D, C, C
+
+Step 275
+A, D, C, C
+suck
+A, C, C, C
+
+Step 276
+A, D, C, C
+suck
+A, C, C, C
+
+Step 277
+A, D, C, C
+suck
+A, C, C, C
+
+Step 278
+A, D, C, C
+suck
+A, C, C, C
+
+Step 279
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 280
+A, D, C, C
+suck
+A, C, C, C
+
+Step 281
+A, D, C, C
+suck
+A, C, C, C
+
+Step 282
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 283
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 284
+A, D, D, D
+suck
+A, C, D, D
+
+Step 285
+A, D, D, D
+suck
+A, C, D, D
+
+Step 286
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 287
+A, D, D, D
+suck
+A, C, D, D
+
+Step 288
+A, D, D, D
+suck
+A, C, D, D
+
+Step 289
+A, C, D, D
+Right
+B, C, D, D
+
+Step 290
+B, D, D, D
+suck
+B, D, C, D
+
+Step 291
+B, D, C, D
+Right
+C, D, C, D
+
+Step 292
+C, D, C, D
+suck
+C, D, C, C
+
+Step 293
+C, D, D, C
+Left
+B, D, D, C
+
+Step 294
+B, D, D, C
+suck
+B, D, C, C
+
+Step 295
+B, D, D, C
+suck
+B, D, C, C
+
+Step 296
+B, D, D, C
+suck
+B, D, C, C
+
+Step 297
+B, D, C, C
+Left
+A, D, C, C
+
+Step 298
+A, D, C, C
+suck
+A, C, C, C
+
+Step 299
+A, D, D, C
+suck
+A, C, D, C
+
+Step 300
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 301
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 302
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 303
+A, D, D, C
+suck
+A, C, D, C
+
+Step 304
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 305
+A, D, D, D
+suck
+A, C, D, D
+
+Step 306
+A, D, D, D
+suck
+A, C, D, D
+
+Step 307
+A, C, D, D
+Right
+B, C, D, D
+
+Step 308
+B, C, D, D
+suck
+B, C, C, D
+
+Step 309
+B, C, C, D
+Right
+C, C, C, D
+
+Step 310
+C, C, C, D
+suck
+C, C, C, C
+
+Step 311
+C, D, D, C
+Left
+B, D, D, C
+
+Step 312
+B, D, D, D
+suck
+B, D, C, D
+
+Step 313
+B, D, C, D
+Left
+A, D, C, D
+
+Step 314
+A, D, D, D
+suck
+A, C, D, D
+
+Step 315
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 316
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 317
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 318
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 319
+A, C, D, D
+Right
+B, C, D, D
+
+Step 320
+B, D, D, D
+suck
+B, D, C, D
+
+Step 321
+B, D, C, D
+Right
+C, D, C, D
+
+Step 322
+C, D, D, D
+suck
+C, D, D, C
+
+Step 323
+C, D, D, D
+suck
+C, D, D, C
+
+Step 324
+C, D, D, C
+Left
+B, D, D, C
+
+Step 325
+B, D, D, D
+suck
+B, D, C, D
+
+Step 326
+B, D, D, D
+suck
+B, D, C, D
+
+Step 327
+B, D, C, D
+Left
+A, D, C, D
+
+Step 328
+A, D, C, D
+suck
+A, C, C, D
+
+Step 329
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 330
+A, D, C, D
+suck
+A, C, C, D
+
+Step 331
+A, D, C, D
+suck
+A, C, C, D
+
+Step 332
+A, D, C, D
+suck
+A, C, C, D
+
+Step 333
+A, D, C, D
+suck
+A, C, C, D
+
+Step 334
+A, D, C, D
+suck
+A, C, C, D
+
+Step 335
+A, D, C, D
+suck
+A, C, C, D
+
+Step 336
+A, D, C, D
+suck
+A, C, C, D
+
+Step 337
+A, D, C, D
+suck
+A, C, C, D
+
+Step 338
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 339
+A, D, D, D
+suck
+A, C, D, D
+
+Step 340
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 341
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 342
+A, C, D, D
+Right
+B, C, D, D
+
+Step 343
+B, D, D, D
+suck
+B, D, C, D
+
+Step 344
+B, D, C, D
+Right
+C, D, C, D
+
+Step 345
+C, D, C, D
+suck
+C, D, C, C
+
+Step 346
+C, D, D, D
+suck
+C, D, D, C
+
+Step 347
+C, D, D, C
+Left
+B, D, D, C
+
+Step 348
+B, D, D, D
+suck
+B, D, C, D
+
+Step 349
+B, D, C, D
+Left
+A, D, C, D
+
+Step 350
+A, D, C, D
+suck
+A, C, C, D
+
+Step 351
+A, D, C, D
+suck
+A, C, C, D
+
+Step 352
+A, D, C, D
+suck
+A, C, C, D
+
+Step 353
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 354
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 355
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 356
+A, D, C, D
+suck
+A, C, C, D
+
+Step 357
+A, D, C, D
+suck
+A, C, C, D
+
+Step 358
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 359
+A, D, C, D
+suck
+A, C, C, D
+
+Step 360
+A, D, D, D
+suck
+A, C, D, D
+
+Step 361
+A, D, D, D
+suck
+A, C, D, D
+
+Step 362
+A, C, D, D
+Right
+B, C, D, D
+
+Step 363
+B, C, D, D
+suck
+B, C, C, D
+
+Step 364
+B, D, D, D
+suck
+B, D, C, D
+
+Step 365
+B, D, C, D
+Right
+C, D, C, D
+
+Step 366
+C, D, C, D
+suck
+C, D, C, C
+
+Step 367
+C, D, D, D
+suck
+C, D, D, C
+
+Step 368
+C, D, D, C
+Left
+B, D, D, C
+
+Step 369
+B, D, D, C
+suck
+B, D, C, C
+
+Step 370
+B, D, C, C
+Left
+A, D, C, C
+
+Step 371
+A, D, C, C
+suck
+A, C, C, C
+
+Step 372
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 373
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 374
+A, D, C, C
+suck
+A, C, C, C
+
+Step 375
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 376
+A, D, C, C
+suck
+A, C, C, C
+
+Step 377
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 378
+A, C, C, C
+Right
+B, C, C, C
+
+Step 379
+B, C, C, C
+Right
+C, C, C, C
+
+Step 380
+C, C, C, C
+Left
+B, C, C, C
+
+Step 381
+B, D, C, C
+Left
+A, D, C, C
+
+Step 382
+A, D, C, C
+suck
+A, C, C, C
+
+Step 383
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 384
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 385
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 386
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 387
+A, C, C, C
+Right
+B, C, C, C
+
+Step 388
+B, C, C, C
+Right
+C, C, C, C
+
+Step 389
+C, C, C, C
+Left
+B, C, C, C
+
+Step 390
+B, C, C, C
+Left
+A, C, C, C
+
+Step 391
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 392
+A, D, C, C
+suck
+A, C, C, C
+
+Step 393
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 394
+A, D, C, C
+suck
+A, C, C, C
+
+Step 395
+A, D, C, C
+suck
+A, C, C, C
+
+Step 396
+A, D, C, C
+suck
+A, C, C, C
+
+Step 397
+A, D, C, C
+suck
+A, C, C, C
+
+Step 398
+A, D, C, C
+suck
+A, C, C, C
+
+Step 399
+A, D, D, C
+suck
+A, C, D, C
+
+Step 400
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 401
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 402
+A, C, D, C
+Right
+B, C, D, C
+
+Step 403
+B, C, D, C
+suck
+B, C, C, C
+
+Step 404
+B, D, C, C
+Right
+C, D, C, C
+
+Step 405
+C, D, C, C
+Left
+B, D, C, C
+
+Step 406
+B, D, C, C
+Left
+A, D, C, C
+
+Step 407
+A, D, C, C
+suck
+A, C, C, C
+
+Step 408
+A, D, D, C
+suck
+A, C, D, C
+
+Step 409
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 410
+A, D, D, C
+suck
+A, C, D, C
+
+Step 411
+A, D, D, D
+suck
+A, C, D, D
+
+Step 412
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 413
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 414
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 415
+A, C, D, D
+Right
+B, C, D, D
+
+Step 416
+B, C, D, D
+suck
+B, C, C, D
+
+Step 417
+B, D, D, D
+suck
+B, D, C, D
+
+Step 418
+B, D, C, D
+Right
+C, D, C, D
+
+Step 419
+C, D, C, D
+suck
+C, D, C, C
+
+Step 420
+C, D, C, C
+Left
+B, D, C, C
+
+Step 421
+B, D, D, C
+suck
+B, D, C, C
+
+Step 422
+B, D, C, C
+Left
+A, D, C, C
+
+Step 423
+A, D, D, C
+suck
+A, C, D, C
+
+Step 424
+A, D, D, C
+suck
+A, C, D, C
+
+Step 425
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 426
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 427
+A, D, D, C
+suck
+A, C, D, C
+
+Step 428
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 429
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 430
+A, D, D, C
+suck
+A, C, D, C
+
+Step 431
+A, D, D, C
+suck
+A, C, D, C
+
+Step 432
+A, D, D, C
+suck
+A, C, D, C
+
+Step 433
+A, D, D, C
+suck
+A, C, D, C
+
+Step 434
+A, C, D, C
+Right
+B, C, D, C
+
+Step 435
+B, D, D, C
+suck
+B, D, C, C
+
+Step 436
+B, D, C, C
+Right
+C, D, C, C
+
+Step 437
+C, D, C, C
+Left
+B, D, C, C
+
+Step 438
+B, D, C, C
+Left
+A, D, C, C
+
+Step 439
+A, D, C, C
+suck
+A, C, C, C
+
+Step 440
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 441
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 442
+A, D, C, C
+suck
+A, C, C, C
+
+Step 443
+A, D, C, C
+suck
+A, C, C, C
+
+Step 444
+A, D, C, C
+suck
+A, C, C, C
+
+Step 445
+A, D, D, D
+suck
+A, C, D, D
+
+Step 446
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 447
+A, D, D, D
+suck
+A, C, D, D
+
+Step 448
+A, D, D, D
+suck
+A, C, D, D
+
+Step 449
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 450
+A, D, D, D
+suck
+A, C, D, D
+
+Step 451
+A, D, D, D
+suck
+A, C, D, D
+
+Step 452
+A, D, D, D
+suck
+A, C, D, D
+
+Step 453
+A, D, D, D
+suck
+A, C, D, D
+
+Step 454
+A, D, D, D
+suck
+A, C, D, D
+
+Step 455
+A, D, D, D
+suck
+A, C, D, D
+
+Step 456
+A, C, D, D
+Right
+B, C, D, D
+
+Step 457
+B, D, D, D
+suck
+B, D, C, D
+
+Step 458
+B, D, C, D
+Right
+C, D, C, D
+
+Step 459
+C, D, C, D
+suck
+C, D, C, C
+
+Step 460
+C, D, C, C
+Left
+B, D, C, C
+
+Step 461
+B, D, C, C
+Left
+A, D, C, C
+
+Step 462
+A, D, D, C
+suck
+A, C, D, C
+
+Step 463
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 464
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 465
+A, D, D, C
+suck
+A, C, D, C
+
+Step 466
+A, D, D, C
+suck
+A, C, D, C
+
+Step 467
+A, D, D, C
+suck
+A, C, D, C
+
+Step 468
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 469
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 470
+A, C, D, C
+Right
+B, C, D, C
+
+Step 471
+B, D, D, C
+suck
+B, D, C, C
+
+Step 472
+B, D, C, C
+Right
+C, D, C, C
+
+Step 473
+C, D, C, C
+Left
+B, D, C, C
+
+Step 474
+B, D, D, C
+suck
+B, D, C, C
+
+Step 475
+B, D, C, C
+Left
+A, D, C, C
+
+Step 476
+A, D, C, C
+suck
+A, C, C, C
+
+Step 477
+A, D, D, C
+suck
+A, C, D, C
+
+Step 478
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 479
+A, D, D, D
+suck
+A, C, D, D
+
+Step 480
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 481
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 482
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 483
+A, C, D, D
+Right
+B, C, D, D
+
+Step 484
+B, C, D, D
+suck
+B, C, C, D
+
+Step 485
+B, C, C, D
+Right
+C, C, C, D
+
+Step 486
+C, C, C, D
+suck
+C, C, C, C
+
+Step 487
+C, C, C, C
+Left
+B, C, C, C
+
+Step 488
+B, C, C, C
+Left
+A, C, C, C
+
+Step 489
+A, D, D, C
+suck
+A, C, D, C
+
+Step 490
+A, D, D, D
+suck
+A, C, D, D
+
+Step 491
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 492
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 493
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 494
+A, D, D, D
+suck
+A, C, D, D
+
+Step 495
+A, D, D, D
+suck
+A, C, D, D
+
+Step 496
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 497
+A, C, D, D
+Right
+B, C, D, D
+
+Step 498
+B, D, D, D
+suck
+B, D, C, D
+
+Step 499
+B, D, C, D
+Right
+C, D, C, D
+
+Step 500
+C, D, C, D
+suck
+C, D, C, C
+
+Step 501
+C, D, C, C
+Left
+B, D, C, C
+
+Step 502
+B, D, C, C
+Left
+A, D, C, C
+
+Step 503
+A, D, C, C
+suck
+A, C, C, C
+
+Step 504
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 505
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 506
+A, D, D, D
+suck
+A, C, D, D
+
+Step 507
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 508
+A, D, D, D
+suck
+A, C, D, D
+
+Step 509
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 510
+A, C, D, D
+Right
+B, C, D, D
+
+Step 511
+B, D, D, D
+suck
+B, D, C, D
+
+Step 512
+B, D, C, D
+Right
+C, D, C, D
+
+Step 513
+C, D, D, D
+suck
+C, D, D, C
+
+Step 514
+C, D, D, C
+Left
+B, D, D, C
+
+Step 515
+B, D, D, C
+suck
+B, D, C, C
+
+Step 516
+B, D, C, C
+Left
+A, D, C, C
+
+Step 517
+A, D, C, C
+suck
+A, C, C, C
+
+Step 518
+A, D, C, C
+suck
+A, C, C, C
+
+Step 519
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 520
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 521
+A, D, D, C
+suck
+A, C, D, C
+
+Step 522
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 523
+A, D, D, C
+suck
+A, C, D, C
+
+Step 524
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 525
+A, C, D, C
+Right
+B, C, D, C
+
+Step 526
+B, D, D, C
+suck
+B, D, C, C
+
+Step 527
+B, D, C, C
+Right
+C, D, C, C
+
+Step 528
+C, D, C, C
+Left
+B, D, C, C
+
+Step 529
+B, D, C, C
+Left
+A, D, C, C
+
+Step 530
+A, D, C, C
+suck
+A, C, C, C
+
+Step 531
+A, D, D, D
+suck
+A, C, D, D
+
+Step 532
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 533
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 534
+A, D, D, D
+suck
+A, C, D, D
+
+Step 535
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 536
+A, D, D, D
+suck
+A, C, D, D
+
+Step 537
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 538
+A, C, D, D
+Right
+B, C, D, D
+
+Step 539
+B, C, D, D
+suck
+B, C, C, D
+
+Step 540
+B, C, C, D
+Right
+C, C, C, D
+
+Step 541
+C, C, C, D
+suck
+C, C, C, C
+
+Step 542
+C, C, C, C
+Left
+B, C, C, C
+
+Step 543
+B, D, C, C
+Left
+A, D, C, C
+
+Step 544
+A, D, C, C
+suck
+A, C, C, C
+
+Step 545
+A, D, C, C
+suck
+A, C, C, C
+
+Step 546
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 547
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 548
+A, D, C, C
+suck
+A, C, C, C
+
+Step 549
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 550
+A, D, C, C
+suck
+A, C, C, C
+
+Step 551
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 552
+A, C, C, C
+Right
+B, C, C, C
+
+Step 553
+B, D, D, C
+suck
+B, D, C, C
+
+Step 554
+B, D, D, D
+suck
+B, D, C, D
+
+Step 555
+B, D, C, D
+Right
+C, D, C, D
+
+Step 556
+C, D, C, D
+suck
+C, D, C, C
+
+Step 557
+C, D, C, C
+Left
+B, D, C, C
+
+Step 558
+B, D, C, C
+Left
+A, D, C, C
+
+Step 559
+A, D, C, C
+suck
+A, C, C, C
+
+Step 560
+A, D, C, C
+suck
+A, C, C, C
+
+Step 561
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 562
+A, D, C, C
+suck
+A, C, C, C
+
+Step 563
+A, D, C, C
+suck
+A, C, C, C
+
+Step 564
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 565
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 566
+A, D, D, D
+suck
+A, C, D, D
+
+Step 567
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 568
+A, D, D, D
+suck
+A, C, D, D
+
+Step 569
+A, D, D, D
+suck
+A, C, D, D
+
+Step 570
+A, C, D, D
+Right
+B, C, D, D
+
+Step 571
+B, D, D, D
+suck
+B, D, C, D
+
+Step 572
+B, D, C, D
+Right
+C, D, C, D
+
+Step 573
+C, D, D, D
+suck
+C, D, D, C
+
+Step 574
+C, D, D, C
+Left
+B, D, D, C
+
+Step 575
+B, D, D, C
+suck
+B, D, C, C
+
+Step 576
+B, D, C, C
+Left
+A, D, C, C
+
+Step 577
+A, D, C, C
+suck
+A, C, C, C
+
+Step 578
+A, D, D, C
+suck
+A, C, D, C
+
+Step 579
+A, D, D, C
+suck
+A, C, D, C
+
+Step 580
+A, D, D, C
+suck
+A, C, D, C
+
+Step 581
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 582
+A, D, D, C
+suck
+A, C, D, C
+
+Step 583
+A, D, D, C
+suck
+A, C, D, C
+
+Step 584
+A, D, D, D
+suck
+A, C, D, D
+
+Step 585
+A, D, D, D
+suck
+A, C, D, D
+
+Step 586
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 587
+A, D, D, D
+suck
+A, C, D, D
+
+Step 588
+A, D, D, D
+suck
+A, C, D, D
+
+Step 589
+A, D, D, D
+suck
+A, C, D, D
+
+Step 590
+A, D, D, D
+suck
+A, C, D, D
+
+Step 591
+A, D, D, D
+suck
+A, C, D, D
+
+Step 592
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 593
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 594
+A, C, D, D
+Right
+B, C, D, D
+
+Step 595
+B, D, D, D
+suck
+B, D, C, D
+
+Step 596
+B, D, C, D
+Right
+C, D, C, D
+
+Step 597
+C, D, C, D
+suck
+C, D, C, C
+
+Step 598
+C, D, C, C
+Left
+B, D, C, C
+
+Step 599
+B, D, C, C
+Left
+A, D, C, C
+
+Step 600
+A, D, C, C
+suck
+A, C, C, C
+
+Step 601
+A, D, D, D
+suck
+A, C, D, D
+
+Step 602
+A, D, D, D
+suck
+A, C, D, D
+
+Step 603
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 604
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 605
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 606
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 607
+A, D, D, D
+suck
+A, C, D, D
+
+Step 608
+A, C, D, D
+Right
+B, C, D, D
+
+Step 609
+B, D, D, D
+suck
+B, D, C, D
+
+Step 610
+B, D, C, D
+Right
+C, D, C, D
+
+Step 611
+C, D, C, D
+suck
+C, D, C, C
+
+Step 612
+C, D, C, C
+Left
+B, D, C, C
+
+Step 613
+B, D, C, C
+Left
+A, D, C, C
+
+Step 614
+A, D, C, C
+suck
+A, C, C, C
+
+Step 615
+A, D, C, C
+suck
+A, C, C, C
+
+Step 616
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 617
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 618
+A, D, C, C
+suck
+A, C, C, C
+
+Step 619
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 620
+A, D, C, C
+suck
+A, C, C, C
+
+Step 621
+A, D, D, C
+suck
+A, C, D, C
+
+Step 622
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 623
+A, C, D, C
+Right
+B, C, D, C
+
+Step 624
+B, D, D, C
+suck
+B, D, C, C
+
+Step 625
+B, D, D, D
+suck
+B, D, C, D
+
+Step 626
+B, D, C, D
+Right
+C, D, C, D
+
+Step 627
+C, D, C, D
+suck
+C, D, C, C
+
+Step 628
+C, D, C, C
+Left
+B, D, C, C
+
+Step 629
+B, D, C, C
+Left
+A, D, C, C
+
+Step 630
+A, D, D, D
+suck
+A, C, D, D
+
+Step 631
+A, D, D, D
+suck
+A, C, D, D
+
+Step 632
+A, D, D, D
+suck
+A, C, D, D
+
+Step 633
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 634
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 635
+A, D, D, D
+suck
+A, C, D, D
+
+Step 636
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 637
+A, D, D, D
+suck
+A, C, D, D
+
+Step 638
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 639
+A, D, D, D
+suck
+A, C, D, D
+
+Step 640
+A, C, D, D
+Right
+B, C, D, D
+
+Step 641
+B, D, D, D
+suck
+B, D, C, D
+
+Step 642
+B, D, C, D
+Right
+C, D, C, D
+
+Step 643
+C, D, C, D
+suck
+C, D, C, C
+
+Step 644
+C, D, C, C
+Left
+B, D, C, C
+
+Step 645
+B, D, C, C
+Left
+A, D, C, C
+
+Step 646
+A, D, C, C
+suck
+A, C, C, C
+
+Step 647
+A, D, D, D
+suck
+A, C, D, D
+
+Step 648
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 649
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 650
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 651
+A, D, D, D
+suck
+A, C, D, D
+
+Step 652
+A, D, D, D
+suck
+A, C, D, D
+
+Step 653
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 654
+A, C, D, D
+Right
+B, C, D, D
+
+Step 655
+B, D, D, D
+suck
+B, D, C, D
+
+Step 656
+B, D, C, D
+Right
+C, D, C, D
+
+Step 657
+C, D, C, D
+suck
+C, D, C, C
+
+Step 658
+C, D, C, C
+Left
+B, D, C, C
+
+Step 659
+B, D, D, D
+suck
+B, D, C, D
+
+Step 660
+B, D, C, D
+Left
+A, D, C, D
+
+Step 661
+A, D, C, D
+suck
+A, C, C, D
+
+Step 662
+A, D, C, D
+suck
+A, C, C, D
+
+Step 663
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 664
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 665
+A, D, D, D
+suck
+A, C, D, D
+
+Step 666
+A, D, D, D
+suck
+A, C, D, D
+
+Step 667
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 668
+A, D, D, D
+suck
+A, C, D, D
+
+Step 669
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 670
+A, C, D, D
+Right
+B, C, D, D
+
+Step 671
+B, C, D, D
+suck
+B, C, C, D
+
+Step 672
+B, C, C, D
+Right
+C, C, C, D
+
+Step 673
+C, C, C, D
+suck
+C, C, C, C
+
+Step 674
+C, C, C, C
+Left
+B, C, C, C
+
+Step 675
+B, C, C, C
+Left
+A, C, C, C
+
+Step 676
+A, D, D, C
+suck
+A, C, D, C
+
+Step 677
+A, D, D, C
+suck
+A, C, D, C
+
+Step 678
+A, D, D, C
+suck
+A, C, D, C
+
+Step 679
+A, D, D, C
+suck
+A, C, D, C
+
+Step 680
+A, D, D, C
+suck
+A, C, D, C
+
+Step 681
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 682
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 683
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 684
+A, D, D, C
+suck
+A, C, D, C
+
+Step 685
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 686
+A, C, D, C
+Right
+B, C, D, C
+
+Step 687
+B, C, D, C
+suck
+B, C, C, C
+
+Step 688
+B, D, D, C
+suck
+B, D, C, C
+
+Step 689
+B, D, D, C
+suck
+B, D, C, C
+
+Step 690
+B, D, D, C
+suck
+B, D, C, C
+
+Step 691
+B, D, C, C
+Right
+C, D, C, C
+
+Step 692
+C, D, D, D
+suck
+C, D, D, C
+
+Step 693
+C, D, D, D
+suck
+C, D, D, C
+
+Step 694
+C, D, D, C
+Left
+B, D, D, C
+
+Step 695
+B, D, D, C
+suck
+B, D, C, C
+
+Step 696
+B, D, C, C
+Left
+A, D, C, C
+
+Step 697
+A, D, C, C
+suck
+A, C, C, C
+
+Step 698
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 699
+A, D, D, D
+suck
+A, C, D, D
+
+Step 700
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 701
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 702
+A, D, D, D
+suck
+A, C, D, D
+
+Step 703
+A, D, D, D
+suck
+A, C, D, D
+
+Step 704
+A, D, D, D
+suck
+A, C, D, D
+
+Step 705
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 706
+A, D, D, D
+suck
+A, C, D, D
+
+Step 707
+A, C, D, D
+Right
+B, C, D, D
+
+Step 708
+B, C, D, D
+suck
+B, C, C, D
+
+Step 709
+B, D, C, D
+Right
+C, D, C, D
+
+Step 710
+C, D, C, D
+suck
+C, D, C, C
+
+Step 711
+C, D, C, C
+Left
+B, D, C, C
+
+Step 712
+B, D, C, C
+Left
+A, D, C, C
+
+Step 713
+A, D, C, C
+suck
+A, C, C, C
+
+Step 714
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 715
+A, D, C, C
+suck
+A, C, C, C
+
+Step 716
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 717
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 718
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 719
+A, D, C, C
+suck
+A, C, C, C
+
+Step 720
+A, D, C, C
+suck
+A, C, C, C
+
+Step 721
+A, D, D, D
+suck
+A, C, D, D
+
+Step 722
+A, C, D, D
+Right
+B, C, D, D
+
+Step 723
+B, C, D, D
+suck
+B, C, C, D
+
+Step 724
+B, C, C, D
+Right
+C, C, C, D
+
+Step 725
+C, C, C, D
+suck
+C, C, C, C
+
+Step 726
+C, C, C, C
+Left
+B, C, C, C
+
+Step 727
+B, D, D, C
+suck
+B, D, C, C
+
+Step 728
+B, D, C, C
+Left
+A, D, C, C
+
+Step 729
+A, D, D, D
+suck
+A, C, D, D
+
+Step 730
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 731
+A, D, D, D
+suck
+A, C, D, D
+
+Step 732
+A, D, D, D
+suck
+A, C, D, D
+
+Step 733
+A, D, D, D
+suck
+A, C, D, D
+
+Step 734
+A, D, D, D
+suck
+A, C, D, D
+
+Step 735
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 736
+A, D, D, D
+suck
+A, C, D, D
+
+Step 737
+A, D, D, D
+suck
+A, C, D, D
+
+Step 738
+A, D, D, D
+suck
+A, C, D, D
+
+Step 739
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 740
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 741
+A, C, D, D
+Right
+B, C, D, D
+
+Step 742
+B, C, D, D
+suck
+B, C, C, D
+
+Step 743
+B, D, D, D
+suck
+B, D, C, D
+
+Step 744
+B, D, C, D
+Right
+C, D, C, D
+
+Step 745
+C, D, D, D
+suck
+C, D, D, C
+
+Step 746
+C, D, D, C
+Left
+B, D, D, C
+
+Step 747
+B, D, D, C
+suck
+B, D, C, C
+
+Step 748
+B, D, C, C
+Left
+A, D, C, C
+
+Step 749
+A, D, D, C
+suck
+A, C, D, C
+
+Step 750
+A, D, D, C
+suck
+A, C, D, C
+
+Step 751
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 752
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 753
+A, D, D, D
+suck
+A, C, D, D
+
+Step 754
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 755
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 756
+A, C, D, D
+Right
+B, C, D, D
+
+Step 757
+B, C, D, D
+suck
+B, C, C, D
+
+Step 758
+B, D, C, D
+Right
+C, D, C, D
+
+Step 759
+C, D, C, D
+suck
+C, D, C, C
+
+Step 760
+C, D, D, C
+Left
+B, D, D, C
+
+Step 761
+B, D, D, C
+suck
+B, D, C, C
+
+Step 762
+B, D, D, D
+suck
+B, D, C, D
+
+Step 763
+B, D, C, D
+Left
+A, D, C, D
+
+Step 764
+A, D, C, D
+suck
+A, C, C, D
+
+Step 765
+A, D, D, D
+suck
+A, C, D, D
+
+Step 766
+A, D, D, D
+suck
+A, C, D, D
+
+Step 767
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 768
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 769
+A, D, D, D
+suck
+A, C, D, D
+
+Step 770
+A, D, D, D
+suck
+A, C, D, D
+
+Step 771
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 772
+A, D, D, D
+suck
+A, C, D, D
+
+Step 773
+A, D, D, D
+suck
+A, C, D, D
+
+Step 774
+A, D, D, D
+suck
+A, C, D, D
+
+Step 775
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 776
+A, C, D, D
+Right
+B, C, D, D
+
+Step 777
+B, C, D, D
+suck
+B, C, C, D
+
+Step 778
+B, C, C, D
+Right
+C, C, C, D
+
+Step 779
+C, D, C, D
+suck
+C, D, C, C
+
+Step 780
+C, D, C, C
+Left
+B, D, C, C
+
+Step 781
+B, D, D, C
+suck
+B, D, C, C
+
+Step 782
+B, D, C, C
+Left
+A, D, C, C
+
+Step 783
+A, D, C, C
+suck
+A, C, C, C
+
+Step 784
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 785
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 786
+A, D, D, D
+suck
+A, C, D, D
+
+Step 787
+A, D, D, D
+suck
+A, C, D, D
+
+Step 788
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 789
+A, D, D, D
+suck
+A, C, D, D
+
+Step 790
+A, D, D, D
+suck
+A, C, D, D
+
+Step 791
+A, D, D, D
+suck
+A, C, D, D
+
+Step 792
+A, D, D, D
+suck
+A, C, D, D
+
+Step 793
+A, D, D, D
+suck
+A, C, D, D
+
+Step 794
+A, D, D, D
+suck
+A, C, D, D
+
+Step 795
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 796
+A, C, D, D
+Right
+B, C, D, D
+
+Step 797
+B, C, D, D
+suck
+B, C, C, D
+
+Step 798
+B, C, C, D
+Right
+C, C, C, D
+
+Step 799
+C, D, C, D
+suck
+C, D, C, C
+
+Step 800
+C, D, C, C
+Left
+B, D, C, C
+
+Step 801
+B, D, C, C
+Left
+A, D, C, C
+
+Step 802
+A, D, C, C
+suck
+A, C, C, C
+
+Step 803
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 804
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 805
+A, D, D, D
+suck
+A, C, D, D
+
+Step 806
+A, D, D, D
+suck
+A, C, D, D
+
+Step 807
+A, D, D, D
+suck
+A, C, D, D
+
+Step 808
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 809
+A, D, D, D
+suck
+A, C, D, D
+
+Step 810
+A, D, D, D
+suck
+A, C, D, D
+
+Step 811
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 812
+A, D, D, D
+suck
+A, C, D, D
+
+Step 813
+A, D, D, D
+suck
+A, C, D, D
+
+Step 814
+A, D, D, D
+suck
+A, C, D, D
+
+Step 815
+A, C, D, D
+Right
+B, C, D, D
+
+Step 816
+B, D, D, D
+suck
+B, D, C, D
+
+Step 817
+B, D, C, D
+Right
+C, D, C, D
+
+Step 818
+C, D, C, D
+suck
+C, D, C, C
+
+Step 819
+C, D, C, C
+Left
+B, D, C, C
+
+Step 820
+B, D, C, C
+Left
+A, D, C, C
+
+Step 821
+A, D, C, C
+suck
+A, C, C, C
+
+Step 822
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 823
+A, D, C, C
+suck
+A, C, C, C
+
+Step 824
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 825
+A, D, C, C
+suck
+A, C, C, C
+
+Step 826
+A, D, D, C
+suck
+A, C, D, C
+
+Step 827
+A, D, D, C
+suck
+A, C, D, C
+
+Step 828
+A, D, D, C
+suck
+A, C, D, C
+
+Step 829
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 830
+A, D, D, C
+suck
+A, C, D, C
+
+Step 831
+A, D, D, D
+suck
+A, C, D, D
+
+Step 832
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 833
+A, C, D, D
+Right
+B, C, D, D
+
+Step 834
+B, C, D, D
+suck
+B, C, C, D
+
+Step 835
+B, D, D, D
+suck
+B, D, C, D
+
+Step 836
+B, D, D, D
+suck
+B, D, C, D
+
+Step 837
+B, D, C, D
+Right
+C, D, C, D
+
+Step 838
+C, D, C, D
+suck
+C, D, C, C
+
+Step 839
+C, D, D, C
+Left
+B, D, D, C
+
+Step 840
+B, D, D, C
+suck
+B, D, C, C
+
+Step 841
+B, D, D, D
+suck
+B, D, C, D
+
+Step 842
+B, D, C, D
+Left
+A, D, C, D
+
+Step 843
+A, D, C, D
+suck
+A, C, C, D
+
+Step 844
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 845
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 846
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 847
+A, D, D, D
+suck
+A, C, D, D
+
+Step 848
+A, D, D, D
+suck
+A, C, D, D
+
+Step 849
+A, D, D, D
+suck
+A, C, D, D
+
+Step 850
+A, D, D, D
+suck
+A, C, D, D
+
+Step 851
+A, D, D, D
+suck
+A, C, D, D
+
+Step 852
+A, D, D, D
+suck
+A, C, D, D
+
+Step 853
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 854
+A, C, D, D
+Right
+B, C, D, D
+
+Step 855
+B, D, D, D
+suck
+B, D, C, D
+
+Step 856
+B, D, C, D
+Right
+C, D, C, D
+
+Step 857
+C, D, C, D
+suck
+C, D, C, C
+
+Step 858
+C, D, C, C
+Left
+B, D, C, C
+
+Step 859
+B, D, C, C
+Left
+A, D, C, C
+
+Step 860
+A, D, C, C
+suck
+A, C, C, C
+
+Step 861
+A, D, D, C
+suck
+A, C, D, C
+
+Step 862
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 863
+A, D, D, C
+suck
+A, C, D, C
+
+Step 864
+A, D, D, C
+suck
+A, C, D, C
+
+Step 865
+A, D, D, D
+suck
+A, C, D, D
+
+Step 866
+A, D, D, D
+suck
+A, C, D, D
+
+Step 867
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 868
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 869
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 870
+A, D, D, D
+suck
+A, C, D, D
+
+Step 871
+A, D, D, D
+suck
+A, C, D, D
+
+Step 872
+A, D, D, D
+suck
+A, C, D, D
+
+Step 873
+A, C, D, D
+Right
+B, C, D, D
+
+Step 874
+B, D, D, D
+suck
+B, D, C, D
+
+Step 875
+B, D, C, D
+Right
+C, D, C, D
+
+Step 876
+C, D, C, D
+suck
+C, D, C, C
+
+Step 877
+C, D, C, C
+Left
+B, D, C, C
+
+Step 878
+B, D, C, C
+Left
+A, D, C, C
+
+Step 879
+A, D, C, C
+suck
+A, C, C, C
+
+Step 880
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 881
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 882
+A, D, C, C
+suck
+A, C, C, C
+
+Step 883
+A, D, C, C
+suck
+A, C, C, C
+
+Step 884
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 885
+A, D, D, D
+suck
+A, C, D, D
+
+Step 886
+A, D, D, D
+suck
+A, C, D, D
+
+Step 887
+A, D, D, D
+suck
+A, C, D, D
+
+Step 888
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 889
+A, C, D, D
+Right
+B, C, D, D
+
+Step 890
+B, D, D, D
+suck
+B, D, C, D
+
+Step 891
+B, D, C, D
+Right
+C, D, C, D
+
+Step 892
+C, D, D, D
+suck
+C, D, D, C
+
+Step 893
+C, D, D, C
+Left
+B, D, D, C
+
+Step 894
+B, D, D, C
+suck
+B, D, C, C
+
+Step 895
+B, D, C, C
+Left
+A, D, C, C
+
+Step 896
+A, D, D, C
+suck
+A, C, D, C
+
+Step 897
+A, D, D, C
+suck
+A, C, D, C
+
+Step 898
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 899
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 900
+A, D, D, C
+suck
+A, C, D, C
+
+Step 901
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 902
+A, C, D, C
+Right
+B, C, D, C
+
+Step 903
+B, D, D, D
+suck
+B, D, C, D
+
+Step 904
+B, D, D, D
+suck
+B, D, C, D
+
+Step 905
+B, D, C, D
+Right
+C, D, C, D
+
+Step 906
+C, D, C, D
+suck
+C, D, C, C
+
+Step 907
+C, D, C, C
+Left
+B, D, C, C
+
+Step 908
+B, D, D, C
+suck
+B, D, C, C
+
+Step 909
+B, D, C, C
+Left
+A, D, C, C
+
+Step 910
+A, D, D, C
+suck
+A, C, D, C
+
+Step 911
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 912
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 913
+A, D, D, C
+suck
+A, C, D, C
+
+Step 914
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 915
+A, C, D, C
+Right
+B, C, D, C
+
+Step 916
+B, C, D, C
+suck
+B, C, C, C
+
+Step 917
+B, D, C, C
+Right
+C, D, C, C
+
+Step 918
+C, D, C, C
+Left
+B, D, C, C
+
+Step 919
+B, D, C, C
+Left
+A, D, C, C
+
+Step 920
+A, D, C, C
+suck
+A, C, C, C
+
+Step 921
+A, D, C, C
+suck
+A, C, C, C
+
+Step 922
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 923
+A, D, C, C
+suck
+A, C, C, C
+
+Step 924
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 925
+A, D, C, C
+suck
+A, C, C, C
+
+Step 926
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 927
+A, D, D, C
+suck
+A, C, D, C
+
+Step 928
+A, C, D, C
+Right
+B, C, D, C
+
+Step 929
+B, D, D, D
+suck
+B, D, C, D
+
+Step 930
+B, D, C, D
+Right
+C, D, C, D
+
+Step 931
+C, D, C, D
+suck
+C, D, C, C
+
+Step 932
+C, D, C, C
+Left
+B, D, C, C
+
+Step 933
+B, D, C, C
+Left
+A, D, C, C
+
+Step 934
+A, D, C, C
+suck
+A, C, C, C
+
+Step 935
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 936
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 937
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 938
+A, C, C, C
+Right
+B, C, C, C
+
+Step 939
+B, C, C, C
+Right
+C, C, C, C
+
+Step 940
+C, C, C, C
+Left
+B, C, C, C
+
+Step 941
+B, C, C, C
+Left
+A, C, C, C
+
+Step 942
+A, D, C, C
+suck
+A, C, C, C
+
+Step 943
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 944
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 945
+A, D, C, C
+suck
+A, C, C, C
+
+Step 946
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 947
+A, C, C, C
+Right
+B, C, C, C
+
+Step 948
+B, D, D, C
+suck
+B, D, C, C
+
+Step 949
+B, D, C, C
+Right
+C, D, C, C
+
+Step 950
+C, D, C, C
+Left
+B, D, C, C
+
+Step 951
+B, D, C, C
+Left
+A, D, C, C
+
+Step 952
+A, D, C, C
+suck
+A, C, C, C
+
+Step 953
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 954
+A, D, D, C
+suck
+A, C, D, C
+
+Step 955
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 956
+A, D, D, C
+suck
+A, C, D, C
+
+Step 957
+A, D, D, D
+suck
+A, C, D, D
+
+Step 958
+A, D, D, D
+suck
+A, C, D, D
+
+Step 959
+A, D, D, D
+suck
+A, C, D, D
+
+Step 960
+A, D, D, D
+suck
+A, C, D, D
+
+Step 961
+A, D, D, D
+suck
+A, C, D, D
+
+Step 962
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 963
+A, C, D, D
+Right
+B, C, D, D
+
+Step 964
+B, D, D, D
+suck
+B, D, C, D
+
+Step 965
+B, D, C, D
+Right
+C, D, C, D
+
+Step 966
+C, D, C, D
+suck
+C, D, C, C
+
+Step 967
+C, D, C, C
+Left
+B, D, C, C
+
+Step 968
+B, D, C, C
+Left
+A, D, C, C
+
+Step 969
+A, D, C, C
+suck
+A, C, C, C
+
+Step 970
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 971
+A, D, C, C
+suck
+A, C, C, C
+
+Step 972
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 973
+A, D, D, C
+suck
+A, C, D, C
+
+Step 974
+A, D, D, C
+suck
+A, C, D, C
+
+Step 975
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 976
+A, D, D, C
+suck
+A, C, D, C
+
+Step 977
+A, C, D, C
+Right
+B, C, D, C
+
+Step 978
+B, D, D, C
+suck
+B, D, C, C
+
+Step 979
+B, D, C, C
+Right
+C, D, C, C
+
+Step 980
+C, D, C, C
+Left
+B, D, C, C
+
+Step 981
+B, D, C, C
+Left
+A, D, C, C
+
+Step 982
+A, D, C, C
+suck
+A, C, C, C
+
+Step 983
+A, D, C, C
+suck
+A, C, C, C
+
+Step 984
+A, D, C, C
+suck
+A, C, C, C
+
+Step 985
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 986
+A, D, D, C
+suck
+A, C, D, C
+
+Step 987
+A, D, D, C
+suck
+A, C, D, C
+
+Step 988
+A, D, D, C
+suck
+A, C, D, C
+
+Step 989
+A, D, D, D
+suck
+A, C, D, D
+
+Step 990
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 991
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 992
+A, C, D, D
+Right
+B, C, D, D
+
+Step 993
+B, C, D, D
+suck
+B, C, C, D
+
+Step 994
+B, C, C, D
+Right
+C, C, C, D
+
+Step 995
+C, C, C, D
+suck
+C, C, C, C
+
+Step 996
+C, C, C, C
+Left
+B, C, C, C
+
+Step 997
+B, D, D, D
+suck
+B, D, C, D
+
+Step 998
+B, D, D, D
+suck
+B, D, C, D
+
+Step 999
+B, D, C, D
+Left
+A, D, C, D
+
+Step 1000
+A, D, C, D
+suck
+A, C, C, D
+
+Total point : 378.5Step 1
+B, D, D, D
+suck
+B, D, C, D
+
+Step 2
+B, D, C, D
+Right
+C, D, C, D
+
+Step 3
+C, D, C, D
+suck
+C, D, C, C
+
+Step 4
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 5
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 6
+C, D, D, C
+Left
+B, D, D, C
+
+Step 7
+B, D, D, C
+suck
+B, D, C, C
+
+Step 8
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 9
+B, D, C, C
+Right
+C, D, C, C
+
+Step 10
+C, D, C, C
+Left
+B, D, C, C
+
+Step 11
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 12
+B, D, D, D
+suck
+B, D, C, D
+
+Step 13
+B, D, C, D
+Right
+C, D, C, D
+
+Step 14
+C, D, C, D
+suck
+C, D, C, C
+
+Step 15
+C, D, C, C
+Left
+B, D, C, C
+
+Step 16
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 17
+B, D, D, C
+suck
+B, D, C, C
+
+Step 18
+B, D, D, D
+suck
+B, D, C, D
+
+Step 19
+B, D, C, D
+Right
+C, D, C, D
+
+Step 20
+C, D, D, D
+suck
+C, D, D, C
+
+Step 21
+C, D, D, C
+noOp
+C, D, D, C
+
+Step 22
+C, D, D, C
+Left
+B, D, D, C
+
+Step 23
+B, D, D, C
+suck
+B, D, C, C
+
+Step 24
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 25
+B, D, C, C
+Right
+C, D, C, C
+
+Step 26
+C, D, D, C
+noOp
+C, D, D, C
+
+Step 27
+C, D, D, C
+noOp
+C, D, D, C
+
+Step 28
+C, D, D, C
+Left
+B, D, D, C
+
+Step 29
+B, D, D, C
+suck
+B, D, C, C
+
+Step 30
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 31
+B, D, C, C
+Right
+C, D, C, C
+
+Step 32
+C, D, C, C
+Left
+B, D, C, C
+
+Step 33
+B, D, C, C
+Right
+C, D, C, C
+
+Step 34
+C, D, D, D
+suck
+C, D, D, C
+
+Step 35
+C, D, D, C
+Left
+B, D, D, C
+
+Step 36
+B, D, D, C
+suck
+B, D, C, C
+
+Step 37
+B, D, C, C
+Left
+A, D, C, C
+
+Step 38
+A, D, C, C
+suck
+A, C, C, C
+
+Step 39
+A, C, C, C
+Right
+B, C, C, C
+
+Step 40
+B, C, C, C
+Right
+C, C, C, C
+
+Step 41
+C, C, C, C
+noOp
+C, C, C, C
+
+Step 42
+C, C, C, C
+noOp
+C, C, C, C
+
+Step 43
+C, D, C, C
+Left
+B, D, C, C
+
+Step 44
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 45
+B, D, C, C
+Right
+C, D, C, C
+
+Step 46
+C, D, C, C
+Left
+B, D, C, C
+
+Step 47
+B, D, C, C
+Left
+A, D, C, C
+
+Step 48
+A, D, C, C
+suck
+A, C, C, C
+
+Step 49
+A, D, C, C
+suck
+A, C, C, C
+
+Step 50
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 51
+A, D, C, C
+suck
+A, C, C, C
+
+Step 52
+A, D, C, C
+suck
+A, C, C, C
+
+Step 53
+A, C, C, C
+Right
+B, C, C, C
+
+Step 54
+B, C, C, C
+Right
+C, C, C, C
+
+Step 55
+C, C, C, C
+noOp
+C, C, C, C
+
+Step 56
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 57
+C, D, C, C
+Left
+B, D, C, C
+
+Step 58
+B, D, C, C
+Right
+C, D, C, C
+
+Step 59
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 60
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 61
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 62
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 63
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 64
+C, D, C, C
+Left
+B, D, C, C
+
+Step 65
+B, D, C, C
+Right
+C, D, C, C
+
+Step 66
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 67
+C, D, C, C
+Left
+B, D, C, C
+
+Step 68
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 69
+B, D, C, C
+Right
+C, D, C, C
+
+Step 70
+C, D, C, C
+Left
+B, D, C, C
+
+Step 71
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 72
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 73
+B, D, C, C
+Left
+A, D, C, C
+
+Step 74
+A, D, D, D
+suck
+A, C, D, D
+
+Step 75
+A, D, D, D
+suck
+A, C, D, D
+
+Step 76
+A, D, D, D
+suck
+A, C, D, D
+
+Step 77
+A, D, D, D
+suck
+A, C, D, D
+
+Step 78
+A, D, D, D
+suck
+A, C, D, D
+
+Step 79
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 80
+A, D, D, D
+suck
+A, C, D, D
+
+Step 81
+A, C, D, D
+Right
+B, C, D, D
+
+Step 82
+B, C, D, D
+suck
+B, C, C, D
+
+Step 83
+B, D, C, D
+Left
+A, D, C, D
+
+Step 84
+A, D, C, D
+suck
+A, C, C, D
+
+Step 85
+A, D, C, D
+suck
+A, C, C, D
+
+Step 86
+A, C, C, D
+Right
+B, C, C, D
+
+Step 87
+B, D, C, D
+Right
+C, D, C, D
+
+Step 88
+C, D, C, D
+suck
+C, D, C, C
+
+Step 89
+C, D, C, C
+Left
+B, D, C, C
+
+Step 90
+B, D, C, C
+noOp
+B, D, C, C
+
+Step 91
+B, D, C, C
+Right
+C, D, C, C
+
+Step 92
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 93
+C, D, C, C
+noOp
+C, D, C, C
+
+Step 94
+C, D, C, C
+Left
+B, D, C, C
+
+Step 95
+B, D, C, C
+Left
+A, D, C, C
+
+Step 96
+A, D, C, C
+suck
+A, C, C, C
+
+Step 97
+A, C, C, C
+Right
+B, C, C, C
+
+Step 98
+B, C, C, C
+noOp
+B, C, C, C
+
+Step 99
+B, D, D, D
+suck
+B, D, C, D
+
+Step 100
+B, D, C, D
+Right
+C, D, C, D
+
+Step 101
+C, D, C, D
+suck
+C, D, C, C
+
+Step 102
+C, D, C, C
+Left
+B, D, C, C
+
+Step 103
+B, D, C, C
+Left
+A, D, C, C
+
+Step 104
+A, D, C, C
+suck
+A, C, C, C
+
+Step 105
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 106
+A, D, D, C
+suck
+A, C, D, C
+
+Step 107
+A, D, D, C
+suck
+A, C, D, C
+
+Step 108
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 109
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 110
+A, D, D, C
+suck
+A, C, D, C
+
+Step 111
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 112
+A, D, D, C
+suck
+A, C, D, C
+
+Step 113
+A, C, D, C
+Right
+B, C, D, C
+
+Step 114
+B, D, D, C
+suck
+B, D, C, C
+
+Step 115
+B, D, C, C
+Right
+C, D, C, C
+
+Step 116
+C, D, C, C
+Left
+B, D, C, C
+
+Step 117
+B, D, C, C
+Left
+A, D, C, C
+
+Step 118
+A, D, C, C
+suck
+A, C, C, C
+
+Step 119
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 120
+A, D, D, D
+suck
+A, C, D, D
+
+Step 121
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 122
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 123
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 124
+A, D, D, D
+suck
+A, C, D, D
+
+Step 125
+A, C, D, D
+Right
+B, C, D, D
+
+Step 126
+B, D, D, D
+suck
+B, D, C, D
+
+Step 127
+B, D, C, D
+Right
+C, D, C, D
+
+Step 128
+C, D, C, D
+suck
+C, D, C, C
+
+Step 129
+C, D, C, C
+Left
+B, D, C, C
+
+Step 130
+B, D, C, C
+Left
+A, D, C, C
+
+Step 131
+A, D, C, C
+suck
+A, C, C, C
+
+Step 132
+A, D, D, D
+suck
+A, C, D, D
+
+Step 133
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 134
+A, D, D, D
+suck
+A, C, D, D
+
+Step 135
+A, D, D, D
+suck
+A, C, D, D
+
+Step 136
+A, D, D, D
+suck
+A, C, D, D
+
+Step 137
+A, D, D, D
+suck
+A, C, D, D
+
+Step 138
+A, D, D, D
+suck
+A, C, D, D
+
+Step 139
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 140
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 141
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 142
+A, C, D, D
+Right
+B, C, D, D
+
+Step 143
+B, C, D, D
+suck
+B, C, C, D
+
+Step 144
+B, D, C, D
+Right
+C, D, C, D
+
+Step 145
+C, D, C, D
+suck
+C, D, C, C
+
+Step 146
+C, D, C, C
+Left
+B, D, C, C
+
+Step 147
+B, D, C, C
+Left
+A, D, C, C
+
+Step 148
+A, D, C, C
+suck
+A, C, C, C
+
+Step 149
+A, D, C, C
+suck
+A, C, C, C
+
+Step 150
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 151
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 152
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 153
+A, D, D, D
+suck
+A, C, D, D
+
+Step 154
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 155
+A, D, D, D
+suck
+A, C, D, D
+
+Step 156
+A, D, D, D
+suck
+A, C, D, D
+
+Step 157
+A, C, D, D
+Right
+B, C, D, D
+
+Step 158
+B, C, D, D
+suck
+B, C, C, D
+
+Step 159
+B, C, C, D
+Right
+C, C, C, D
+
+Step 160
+C, D, C, D
+suck
+C, D, C, C
+
+Step 161
+C, D, C, C
+Left
+B, D, C, C
+
+Step 162
+B, D, C, C
+Left
+A, D, C, C
+
+Step 163
+A, D, C, C
+suck
+A, C, C, C
+
+Step 164
+A, D, C, C
+suck
+A, C, C, C
+
+Step 165
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 166
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 167
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 168
+A, D, C, C
+suck
+A, C, C, C
+
+Step 169
+A, D, C, C
+suck
+A, C, C, C
+
+Step 170
+A, D, D, D
+suck
+A, C, D, D
+
+Step 171
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 172
+A, D, D, D
+suck
+A, C, D, D
+
+Step 173
+A, D, D, D
+suck
+A, C, D, D
+
+Step 174
+A, D, D, D
+suck
+A, C, D, D
+
+Step 175
+A, D, D, D
+suck
+A, C, D, D
+
+Step 176
+A, C, D, D
+Right
+B, C, D, D
+
+Step 177
+B, D, D, D
+suck
+B, D, C, D
+
+Step 178
+B, D, C, D
+Right
+C, D, C, D
+
+Step 179
+C, D, C, D
+suck
+C, D, C, C
+
+Step 180
+C, D, C, C
+Left
+B, D, C, C
+
+Step 181
+B, D, C, C
+Left
+A, D, C, C
+
+Step 182
+A, D, C, C
+suck
+A, C, C, C
+
+Step 183
+A, D, D, C
+suck
+A, C, D, C
+
+Step 184
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 185
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 186
+A, D, D, C
+suck
+A, C, D, C
+
+Step 187
+A, D, D, C
+suck
+A, C, D, C
+
+Step 188
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 189
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 190
+A, D, D, C
+suck
+A, C, D, C
+
+Step 191
+A, D, D, C
+suck
+A, C, D, C
+
+Step 192
+A, D, D, C
+suck
+A, C, D, C
+
+Step 193
+A, D, D, C
+suck
+A, C, D, C
+
+Step 194
+A, C, D, C
+Right
+B, C, D, C
+
+Step 195
+B, C, D, C
+suck
+B, C, C, C
+
+Step 196
+B, D, C, C
+Right
+C, D, C, C
+
+Step 197
+C, D, C, C
+Left
+B, D, C, C
+
+Step 198
+B, D, C, C
+Left
+A, D, C, C
+
+Step 199
+A, D, C, C
+suck
+A, C, C, C
+
+Step 200
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 201
+A, D, C, C
+suck
+A, C, C, C
+
+Step 202
+A, D, C, C
+suck
+A, C, C, C
+
+Step 203
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 204
+A, D, C, C
+suck
+A, C, C, C
+
+Step 205
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 206
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 207
+A, D, C, C
+suck
+A, C, C, C
+
+Step 208
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 209
+A, C, C, C
+Right
+B, C, C, C
+
+Step 210
+B, D, C, C
+Right
+C, D, C, C
+
+Step 211
+C, D, C, C
+Left
+B, D, C, C
+
+Step 212
+B, D, D, C
+suck
+B, D, C, C
+
+Step 213
+B, D, C, C
+Left
+A, D, C, C
+
+Step 214
+A, D, D, C
+suck
+A, C, D, C
+
+Step 215
+A, D, D, C
+suck
+A, C, D, C
+
+Step 216
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 217
+A, D, D, D
+suck
+A, C, D, D
+
+Step 218
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 219
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 220
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 221
+A, D, D, D
+suck
+A, C, D, D
+
+Step 222
+A, D, D, D
+suck
+A, C, D, D
+
+Step 223
+A, D, D, D
+suck
+A, C, D, D
+
+Step 224
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 225
+A, C, D, D
+Right
+B, C, D, D
+
+Step 226
+B, D, D, D
+suck
+B, D, C, D
+
+Step 227
+B, D, C, D
+Right
+C, D, C, D
+
+Step 228
+C, D, C, D
+suck
+C, D, C, C
+
+Step 229
+C, D, C, C
+Left
+B, D, C, C
+
+Step 230
+B, D, D, D
+suck
+B, D, C, D
+
+Step 231
+B, D, C, D
+Left
+A, D, C, D
+
+Step 232
+A, D, C, D
+suck
+A, C, C, D
+
+Step 233
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 234
+A, D, D, D
+suck
+A, C, D, D
+
+Step 235
+A, D, D, D
+suck
+A, C, D, D
+
+Step 236
+A, D, D, D
+suck
+A, C, D, D
+
+Step 237
+A, D, D, D
+suck
+A, C, D, D
+
+Step 238
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 239
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 240
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 241
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 242
+A, C, D, D
+Right
+B, C, D, D
+
+Step 243
+B, C, D, D
+suck
+B, C, C, D
+
+Step 244
+B, C, C, D
+Right
+C, C, C, D
+
+Step 245
+C, C, C, D
+suck
+C, C, C, C
+
+Step 246
+C, C, C, C
+Left
+B, C, C, C
+
+Step 247
+B, C, C, C
+Left
+A, C, C, C
+
+Step 248
+A, D, C, C
+suck
+A, C, C, C
+
+Step 249
+A, D, C, C
+suck
+A, C, C, C
+
+Step 250
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 251
+A, D, C, C
+suck
+A, C, C, C
+
+Step 252
+A, D, C, C
+suck
+A, C, C, C
+
+Step 253
+A, D, D, D
+suck
+A, C, D, D
+
+Step 254
+A, D, D, D
+suck
+A, C, D, D
+
+Step 255
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 256
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 257
+A, D, D, D
+suck
+A, C, D, D
+
+Step 258
+A, D, D, D
+suck
+A, C, D, D
+
+Step 259
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 260
+A, D, D, D
+suck
+A, C, D, D
+
+Step 261
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 262
+A, D, D, D
+suck
+A, C, D, D
+
+Step 263
+A, C, D, D
+Right
+B, C, D, D
+
+Step 264
+B, D, D, D
+suck
+B, D, C, D
+
+Step 265
+B, D, D, D
+suck
+B, D, C, D
+
+Step 266
+B, D, D, D
+suck
+B, D, C, D
+
+Step 267
+B, D, C, D
+Right
+C, D, C, D
+
+Step 268
+C, D, C, D
+suck
+C, D, C, C
+
+Step 269
+C, D, D, D
+suck
+C, D, D, C
+
+Step 270
+C, D, D, C
+Left
+B, D, D, C
+
+Step 271
+B, D, D, C
+suck
+B, D, C, C
+
+Step 272
+B, D, C, C
+Left
+A, D, C, C
+
+Step 273
+A, D, C, C
+suck
+A, C, C, C
+
+Step 274
+A, D, C, C
+suck
+A, C, C, C
+
+Step 275
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 276
+A, D, C, C
+suck
+A, C, C, C
+
+Step 277
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 278
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 279
+A, D, C, C
+suck
+A, C, C, C
+
+Step 280
+A, D, C, C
+suck
+A, C, C, C
+
+Step 281
+A, D, D, C
+suck
+A, C, D, C
+
+Step 282
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 283
+A, D, D, D
+suck
+A, C, D, D
+
+Step 284
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 285
+A, C, D, D
+Right
+B, C, D, D
+
+Step 286
+B, C, D, D
+suck
+B, C, C, D
+
+Step 287
+B, C, C, D
+Right
+C, C, C, D
+
+Step 288
+C, C, C, D
+suck
+C, C, C, C
+
+Step 289
+C, D, D, C
+Left
+B, D, D, C
+
+Step 290
+B, D, D, C
+suck
+B, D, C, C
+
+Step 291
+B, D, C, C
+Left
+A, D, C, C
+
+Step 292
+A, D, C, C
+suck
+A, C, C, C
+
+Step 293
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 294
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 295
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 296
+A, D, D, D
+suck
+A, C, D, D
+
+Step 297
+A, D, D, D
+suck
+A, C, D, D
+
+Step 298
+A, D, D, D
+suck
+A, C, D, D
+
+Step 299
+A, D, D, D
+suck
+A, C, D, D
+
+Step 300
+A, D, D, D
+suck
+A, C, D, D
+
+Step 301
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 302
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 303
+A, D, D, D
+suck
+A, C, D, D
+
+Step 304
+A, C, D, D
+Right
+B, C, D, D
+
+Step 305
+B, D, D, D
+suck
+B, D, C, D
+
+Step 306
+B, D, C, D
+Right
+C, D, C, D
+
+Step 307
+C, D, D, D
+suck
+C, D, D, C
+
+Step 308
+C, D, D, C
+Left
+B, D, D, C
+
+Step 309
+B, D, D, C
+suck
+B, D, C, C
+
+Step 310
+B, D, C, C
+Left
+A, D, C, C
+
+Step 311
+A, D, C, C
+suck
+A, C, C, C
+
+Step 312
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 313
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 314
+A, D, D, D
+suck
+A, C, D, D
+
+Step 315
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 316
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 317
+A, D, D, D
+suck
+A, C, D, D
+
+Step 318
+A, D, D, D
+suck
+A, C, D, D
+
+Step 319
+A, D, D, D
+suck
+A, C, D, D
+
+Step 320
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 321
+A, C, D, D
+Right
+B, C, D, D
+
+Step 322
+B, C, D, D
+suck
+B, C, C, D
+
+Step 323
+B, C, C, D
+Right
+C, C, C, D
+
+Step 324
+C, C, C, D
+suck
+C, C, C, C
+
+Step 325
+C, C, C, C
+Left
+B, C, C, C
+
+Step 326
+B, C, C, C
+Left
+A, C, C, C
+
+Step 327
+A, D, D, C
+suck
+A, C, D, C
+
+Step 328
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 329
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 330
+A, D, D, C
+suck
+A, C, D, C
+
+Step 331
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 332
+A, D, D, C
+suck
+A, C, D, C
+
+Step 333
+A, D, D, D
+suck
+A, C, D, D
+
+Step 334
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 335
+A, D, D, D
+suck
+A, C, D, D
+
+Step 336
+A, D, D, D
+suck
+A, C, D, D
+
+Step 337
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 338
+A, C, D, D
+Right
+B, C, D, D
+
+Step 339
+B, C, D, D
+suck
+B, C, C, D
+
+Step 340
+B, C, C, D
+Right
+C, C, C, D
+
+Step 341
+C, C, C, D
+suck
+C, C, C, C
+
+Step 342
+C, C, C, C
+Left
+B, C, C, C
+
+Step 343
+B, D, C, C
+Left
+A, D, C, C
+
+Step 344
+A, D, C, C
+suck
+A, C, C, C
+
+Step 345
+A, D, C, C
+suck
+A, C, C, C
+
+Step 346
+A, D, C, C
+suck
+A, C, C, C
+
+Step 347
+A, D, C, C
+suck
+A, C, C, C
+
+Step 348
+A, D, D, C
+suck
+A, C, D, C
+
+Step 349
+A, D, D, C
+suck
+A, C, D, C
+
+Step 350
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 351
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 352
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 353
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 354
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 355
+A, D, D, C
+suck
+A, C, D, C
+
+Step 356
+A, C, D, C
+Right
+B, C, D, C
+
+Step 357
+B, D, D, D
+suck
+B, D, C, D
+
+Step 358
+B, D, C, D
+Right
+C, D, C, D
+
+Step 359
+C, D, D, D
+suck
+C, D, D, C
+
+Step 360
+C, D, D, C
+Left
+B, D, D, C
+
+Step 361
+B, D, D, C
+suck
+B, D, C, C
+
+Step 362
+B, D, D, C
+suck
+B, D, C, C
+
+Step 363
+B, D, C, C
+Left
+A, D, C, C
+
+Step 364
+A, D, C, C
+suck
+A, C, C, C
+
+Step 365
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 366
+A, D, C, C
+suck
+A, C, C, C
+
+Step 367
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 368
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 369
+A, D, D, D
+suck
+A, C, D, D
+
+Step 370
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 371
+A, D, D, D
+suck
+A, C, D, D
+
+Step 372
+A, D, D, D
+suck
+A, C, D, D
+
+Step 373
+A, D, D, D
+suck
+A, C, D, D
+
+Step 374
+A, D, D, D
+suck
+A, C, D, D
+
+Step 375
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 376
+A, D, D, D
+suck
+A, C, D, D
+
+Step 377
+A, C, D, D
+Right
+B, C, D, D
+
+Step 378
+B, D, D, D
+suck
+B, D, C, D
+
+Step 379
+B, D, D, D
+suck
+B, D, C, D
+
+Step 380
+B, D, C, D
+Right
+C, D, C, D
+
+Step 381
+C, D, C, D
+suck
+C, D, C, C
+
+Step 382
+C, D, C, C
+Left
+B, D, C, C
+
+Step 383
+B, D, C, C
+Left
+A, D, C, C
+
+Step 384
+A, D, C, C
+suck
+A, C, C, C
+
+Step 385
+A, D, C, C
+suck
+A, C, C, C
+
+Step 386
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 387
+A, D, D, D
+suck
+A, C, D, D
+
+Step 388
+A, D, D, D
+suck
+A, C, D, D
+
+Step 389
+A, D, D, D
+suck
+A, C, D, D
+
+Step 390
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 391
+A, D, D, D
+suck
+A, C, D, D
+
+Step 392
+A, D, D, D
+suck
+A, C, D, D
+
+Step 393
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 394
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 395
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 396
+A, C, D, D
+Right
+B, C, D, D
+
+Step 397
+B, D, D, D
+suck
+B, D, C, D
+
+Step 398
+B, D, C, D
+Right
+C, D, C, D
+
+Step 399
+C, D, C, D
+suck
+C, D, C, C
+
+Step 400
+C, D, C, C
+Left
+B, D, C, C
+
+Step 401
+B, D, C, C
+Left
+A, D, C, C
+
+Step 402
+A, D, C, C
+suck
+A, C, C, C
+
+Step 403
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 404
+A, D, D, C
+suck
+A, C, D, C
+
+Step 405
+A, D, D, D
+suck
+A, C, D, D
+
+Step 406
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 407
+A, D, D, D
+suck
+A, C, D, D
+
+Step 408
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 409
+A, D, D, D
+suck
+A, C, D, D
+
+Step 410
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 411
+A, C, D, D
+Right
+B, C, D, D
+
+Step 412
+B, D, D, D
+suck
+B, D, C, D
+
+Step 413
+B, D, D, D
+suck
+B, D, C, D
+
+Step 414
+B, D, C, D
+Right
+C, D, C, D
+
+Step 415
+C, D, C, D
+suck
+C, D, C, C
+
+Step 416
+C, D, D, C
+Left
+B, D, D, C
+
+Step 417
+B, D, D, C
+suck
+B, D, C, C
+
+Step 418
+B, D, C, C
+Left
+A, D, C, C
+
+Step 419
+A, D, C, C
+suck
+A, C, C, C
+
+Step 420
+A, D, D, D
+suck
+A, C, D, D
+
+Step 421
+A, D, D, D
+suck
+A, C, D, D
+
+Step 422
+A, D, D, D
+suck
+A, C, D, D
+
+Step 423
+A, D, D, D
+suck
+A, C, D, D
+
+Step 424
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 425
+A, D, D, D
+suck
+A, C, D, D
+
+Step 426
+A, D, D, D
+suck
+A, C, D, D
+
+Step 427
+A, D, D, D
+suck
+A, C, D, D
+
+Step 428
+A, D, D, D
+suck
+A, C, D, D
+
+Step 429
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 430
+A, D, D, D
+suck
+A, C, D, D
+
+Step 431
+A, D, D, D
+suck
+A, C, D, D
+
+Step 432
+A, D, D, D
+suck
+A, C, D, D
+
+Step 433
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 434
+A, D, D, D
+suck
+A, C, D, D
+
+Step 435
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 436
+A, C, D, D
+Right
+B, C, D, D
+
+Step 437
+B, C, D, D
+suck
+B, C, C, D
+
+Step 438
+B, D, D, D
+suck
+B, D, C, D
+
+Step 439
+B, D, C, D
+Right
+C, D, C, D
+
+Step 440
+C, D, C, D
+suck
+C, D, C, C
+
+Step 441
+C, D, D, C
+Left
+B, D, D, C
+
+Step 442
+B, D, D, C
+suck
+B, D, C, C
+
+Step 443
+B, D, C, C
+Left
+A, D, C, C
+
+Step 444
+A, D, C, C
+suck
+A, C, C, C
+
+Step 445
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 446
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 447
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 448
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 449
+A, C, C, C
+Right
+B, C, C, C
+
+Step 450
+B, C, C, C
+Right
+C, C, C, C
+
+Step 451
+C, C, C, C
+Left
+B, C, C, C
+
+Step 452
+B, C, C, C
+Left
+A, C, C, C
+
+Step 453
+A, D, D, D
+suck
+A, C, D, D
+
+Step 454
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 455
+A, D, D, D
+suck
+A, C, D, D
+
+Step 456
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 457
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 458
+A, D, D, D
+suck
+A, C, D, D
+
+Step 459
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 460
+A, C, D, D
+Right
+B, C, D, D
+
+Step 461
+B, D, D, D
+suck
+B, D, C, D
+
+Step 462
+B, D, C, D
+Right
+C, D, C, D
+
+Step 463
+C, D, C, D
+suck
+C, D, C, C
+
+Step 464
+C, D, C, C
+Left
+B, D, C, C
+
+Step 465
+B, D, C, C
+Left
+A, D, C, C
+
+Step 466
+A, D, C, C
+suck
+A, C, C, C
+
+Step 467
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 468
+A, D, D, D
+suck
+A, C, D, D
+
+Step 469
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 470
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 471
+A, D, D, D
+suck
+A, C, D, D
+
+Step 472
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 473
+A, C, D, D
+Right
+B, C, D, D
+
+Step 474
+B, D, D, D
+suck
+B, D, C, D
+
+Step 475
+B, D, C, D
+Right
+C, D, C, D
+
+Step 476
+C, D, C, D
+suck
+C, D, C, C
+
+Step 477
+C, D, C, C
+Left
+B, D, C, C
+
+Step 478
+B, D, C, C
+Left
+A, D, C, C
+
+Step 479
+A, D, C, C
+suck
+A, C, C, C
+
+Step 480
+A, D, D, D
+suck
+A, C, D, D
+
+Step 481
+A, D, D, D
+suck
+A, C, D, D
+
+Step 482
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 483
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 484
+A, D, D, D
+suck
+A, C, D, D
+
+Step 485
+A, D, D, D
+suck
+A, C, D, D
+
+Step 486
+A, D, D, D
+suck
+A, C, D, D
+
+Step 487
+A, D, D, D
+suck
+A, C, D, D
+
+Step 488
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 489
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 490
+A, D, D, D
+suck
+A, C, D, D
+
+Step 491
+A, D, D, D
+suck
+A, C, D, D
+
+Step 492
+A, C, D, D
+Right
+B, C, D, D
+
+Step 493
+B, C, D, D
+suck
+B, C, C, D
+
+Step 494
+B, D, C, D
+Right
+C, D, C, D
+
+Step 495
+C, D, C, D
+suck
+C, D, C, C
+
+Step 496
+C, D, D, C
+Left
+B, D, D, C
+
+Step 497
+B, D, D, C
+suck
+B, D, C, C
+
+Step 498
+B, D, C, C
+Left
+A, D, C, C
+
+Step 499
+A, D, C, C
+suck
+A, C, C, C
+
+Step 500
+A, D, D, C
+suck
+A, C, D, C
+
+Step 501
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 502
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 503
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 504
+A, D, D, C
+suck
+A, C, D, C
+
+Step 505
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 506
+A, D, D, D
+suck
+A, C, D, D
+
+Step 507
+A, C, D, D
+Right
+B, C, D, D
+
+Step 508
+B, C, D, D
+suck
+B, C, C, D
+
+Step 509
+B, D, C, D
+Right
+C, D, C, D
+
+Step 510
+C, D, C, D
+suck
+C, D, C, C
+
+Step 511
+C, D, C, C
+Left
+B, D, C, C
+
+Step 512
+B, D, C, C
+Left
+A, D, C, C
+
+Step 513
+A, D, D, D
+suck
+A, C, D, D
+
+Step 514
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 515
+A, D, D, D
+suck
+A, C, D, D
+
+Step 516
+A, D, D, D
+suck
+A, C, D, D
+
+Step 517
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 518
+A, D, D, D
+suck
+A, C, D, D
+
+Step 519
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 520
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 521
+A, C, D, D
+Right
+B, C, D, D
+
+Step 522
+B, D, D, D
+suck
+B, D, C, D
+
+Step 523
+B, D, C, D
+Right
+C, D, C, D
+
+Step 524
+C, D, D, D
+suck
+C, D, D, C
+
+Step 525
+C, D, D, C
+Left
+B, D, D, C
+
+Step 526
+B, D, D, C
+suck
+B, D, C, C
+
+Step 527
+B, D, C, C
+Left
+A, D, C, C
+
+Step 528
+A, D, C, C
+suck
+A, C, C, C
+
+Step 529
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 530
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 531
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 532
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 533
+A, D, C, C
+suck
+A, C, C, C
+
+Step 534
+A, D, D, C
+suck
+A, C, D, C
+
+Step 535
+A, D, D, C
+suck
+A, C, D, C
+
+Step 536
+A, C, D, C
+Right
+B, C, D, C
+
+Step 537
+B, D, D, D
+suck
+B, D, C, D
+
+Step 538
+B, D, C, D
+Right
+C, D, C, D
+
+Step 539
+C, D, C, D
+suck
+C, D, C, C
+
+Step 540
+C, D, C, C
+Left
+B, D, C, C
+
+Step 541
+B, D, D, C
+suck
+B, D, C, C
+
+Step 542
+B, D, C, C
+Left
+A, D, C, C
+
+Step 543
+A, D, C, C
+suck
+A, C, C, C
+
+Step 544
+A, D, C, C
+suck
+A, C, C, C
+
+Step 545
+A, D, C, C
+suck
+A, C, C, C
+
+Step 546
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 547
+A, D, D, D
+suck
+A, C, D, D
+
+Step 548
+A, D, D, D
+suck
+A, C, D, D
+
+Step 549
+A, D, D, D
+suck
+A, C, D, D
+
+Step 550
+A, D, D, D
+suck
+A, C, D, D
+
+Step 551
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 552
+A, D, D, D
+suck
+A, C, D, D
+
+Step 553
+A, D, D, D
+suck
+A, C, D, D
+
+Step 554
+A, D, D, D
+suck
+A, C, D, D
+
+Step 555
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 556
+A, D, D, D
+suck
+A, C, D, D
+
+Step 557
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 558
+A, D, D, D
+suck
+A, C, D, D
+
+Step 559
+A, D, D, D
+suck
+A, C, D, D
+
+Step 560
+A, D, D, D
+suck
+A, C, D, D
+
+Step 561
+A, D, D, D
+suck
+A, C, D, D
+
+Step 562
+A, D, D, D
+suck
+A, C, D, D
+
+Step 563
+A, D, D, D
+suck
+A, C, D, D
+
+Step 564
+A, D, D, D
+suck
+A, C, D, D
+
+Step 565
+A, C, D, D
+Right
+B, C, D, D
+
+Step 566
+B, D, D, D
+suck
+B, D, C, D
+
+Step 567
+B, D, D, D
+suck
+B, D, C, D
+
+Step 568
+B, D, C, D
+Right
+C, D, C, D
+
+Step 569
+C, D, C, D
+suck
+C, D, C, C
+
+Step 570
+C, D, C, C
+Left
+B, D, C, C
+
+Step 571
+B, D, C, C
+Left
+A, D, C, C
+
+Step 572
+A, D, D, D
+suck
+A, C, D, D
+
+Step 573
+A, D, D, D
+suck
+A, C, D, D
+
+Step 574
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 575
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 576
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 577
+A, D, D, D
+suck
+A, C, D, D
+
+Step 578
+A, D, D, D
+suck
+A, C, D, D
+
+Step 579
+A, D, D, D
+suck
+A, C, D, D
+
+Step 580
+A, D, D, D
+suck
+A, C, D, D
+
+Step 581
+A, D, D, D
+suck
+A, C, D, D
+
+Step 582
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 583
+A, C, D, D
+Right
+B, C, D, D
+
+Step 584
+B, D, D, D
+suck
+B, D, C, D
+
+Step 585
+B, D, D, D
+suck
+B, D, C, D
+
+Step 586
+B, D, C, D
+Right
+C, D, C, D
+
+Step 587
+C, D, C, D
+suck
+C, D, C, C
+
+Step 588
+C, D, C, C
+Left
+B, D, C, C
+
+Step 589
+B, D, C, C
+Left
+A, D, C, C
+
+Step 590
+A, D, C, C
+suck
+A, C, C, C
+
+Step 591
+A, D, D, C
+suck
+A, C, D, C
+
+Step 592
+A, D, D, C
+suck
+A, C, D, C
+
+Step 593
+A, D, D, C
+suck
+A, C, D, C
+
+Step 594
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 595
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 596
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 597
+A, D, D, C
+suck
+A, C, D, C
+
+Step 598
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 599
+A, D, D, D
+suck
+A, C, D, D
+
+Step 600
+A, D, D, D
+suck
+A, C, D, D
+
+Step 601
+A, C, D, D
+Right
+B, C, D, D
+
+Step 602
+B, D, D, D
+suck
+B, D, C, D
+
+Step 603
+B, D, D, D
+suck
+B, D, C, D
+
+Step 604
+B, D, D, D
+suck
+B, D, C, D
+
+Step 605
+B, D, D, D
+suck
+B, D, C, D
+
+Step 606
+B, D, C, D
+Right
+C, D, C, D
+
+Step 607
+C, D, C, D
+suck
+C, D, C, C
+
+Step 608
+C, D, C, C
+Left
+B, D, C, C
+
+Step 609
+B, D, C, C
+Left
+A, D, C, C
+
+Step 610
+A, D, C, C
+suck
+A, C, C, C
+
+Step 611
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 612
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 613
+A, D, D, D
+suck
+A, C, D, D
+
+Step 614
+A, D, D, D
+suck
+A, C, D, D
+
+Step 615
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 616
+A, D, D, D
+suck
+A, C, D, D
+
+Step 617
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 618
+A, D, D, D
+suck
+A, C, D, D
+
+Step 619
+A, C, D, D
+Right
+B, C, D, D
+
+Step 620
+B, C, D, D
+suck
+B, C, C, D
+
+Step 621
+B, C, C, D
+Right
+C, C, C, D
+
+Step 622
+C, D, D, D
+suck
+C, D, D, C
+
+Step 623
+C, D, D, C
+Left
+B, D, D, C
+
+Step 624
+B, D, D, C
+suck
+B, D, C, C
+
+Step 625
+B, D, D, D
+suck
+B, D, C, D
+
+Step 626
+B, D, D, D
+suck
+B, D, C, D
+
+Step 627
+B, D, C, D
+Left
+A, D, C, D
+
+Step 628
+A, D, C, D
+suck
+A, C, C, D
+
+Step 629
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 630
+A, D, D, D
+suck
+A, C, D, D
+
+Step 631
+A, D, D, D
+suck
+A, C, D, D
+
+Step 632
+A, D, D, D
+suck
+A, C, D, D
+
+Step 633
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 634
+A, D, D, D
+suck
+A, C, D, D
+
+Step 635
+A, D, D, D
+suck
+A, C, D, D
+
+Step 636
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 637
+A, D, D, D
+suck
+A, C, D, D
+
+Step 638
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 639
+A, C, D, D
+Right
+B, C, D, D
+
+Step 640
+B, D, D, D
+suck
+B, D, C, D
+
+Step 641
+B, D, C, D
+Right
+C, D, C, D
+
+Step 642
+C, D, C, D
+suck
+C, D, C, C
+
+Step 643
+C, D, C, C
+Left
+B, D, C, C
+
+Step 644
+B, D, C, C
+Left
+A, D, C, C
+
+Step 645
+A, D, C, C
+suck
+A, C, C, C
+
+Step 646
+A, D, D, C
+suck
+A, C, D, C
+
+Step 647
+A, D, D, C
+suck
+A, C, D, C
+
+Step 648
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 649
+A, D, D, C
+suck
+A, C, D, C
+
+Step 650
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 651
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 652
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 653
+A, C, D, C
+Right
+B, C, D, C
+
+Step 654
+B, C, D, C
+suck
+B, C, C, C
+
+Step 655
+B, D, D, D
+suck
+B, D, C, D
+
+Step 656
+B, D, C, D
+Right
+C, D, C, D
+
+Step 657
+C, D, C, D
+suck
+C, D, C, C
+
+Step 658
+C, D, D, C
+Left
+B, D, D, C
+
+Step 659
+B, D, D, C
+suck
+B, D, C, C
+
+Step 660
+B, D, C, C
+Left
+A, D, C, C
+
+Step 661
+A, D, C, C
+suck
+A, C, C, C
+
+Step 662
+A, D, D, C
+suck
+A, C, D, C
+
+Step 663
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 664
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 665
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 666
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 667
+A, C, D, C
+Right
+B, C, D, C
+
+Step 668
+B, C, D, C
+suck
+B, C, C, C
+
+Step 669
+B, C, C, C
+Right
+C, C, C, C
+
+Step 670
+C, C, C, C
+Left
+B, C, C, C
+
+Step 671
+B, C, C, C
+Left
+A, C, C, C
+
+Step 672
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 673
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 674
+A, D, C, C
+suck
+A, C, C, C
+
+Step 675
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 676
+A, D, C, C
+suck
+A, C, C, C
+
+Step 677
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 678
+A, D, C, C
+suck
+A, C, C, C
+
+Step 679
+A, D, D, D
+suck
+A, C, D, D
+
+Step 680
+A, C, D, D
+Right
+B, C, D, D
+
+Step 681
+B, D, D, D
+suck
+B, D, C, D
+
+Step 682
+B, D, C, D
+Right
+C, D, C, D
+
+Step 683
+C, D, C, D
+suck
+C, D, C, C
+
+Step 684
+C, D, C, C
+Left
+B, D, C, C
+
+Step 685
+B, D, C, C
+Left
+A, D, C, C
+
+Step 686
+A, D, C, C
+suck
+A, C, C, C
+
+Step 687
+A, D, C, C
+suck
+A, C, C, C
+
+Step 688
+A, D, C, C
+suck
+A, C, C, C
+
+Step 689
+A, D, D, C
+suck
+A, C, D, C
+
+Step 690
+A, D, D, C
+suck
+A, C, D, C
+
+Step 691
+A, D, D, C
+suck
+A, C, D, C
+
+Step 692
+A, D, D, C
+suck
+A, C, D, C
+
+Step 693
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 694
+A, D, D, C
+suck
+A, C, D, C
+
+Step 695
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 696
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 697
+A, D, D, C
+suck
+A, C, D, C
+
+Step 698
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 699
+A, C, D, C
+Right
+B, C, D, C
+
+Step 700
+B, D, D, C
+suck
+B, D, C, C
+
+Step 701
+B, D, C, C
+Right
+C, D, C, C
+
+Step 702
+C, D, C, C
+Left
+B, D, C, C
+
+Step 703
+B, D, C, C
+Left
+A, D, C, C
+
+Step 704
+A, D, C, C
+suck
+A, C, C, C
+
+Step 705
+A, D, C, C
+suck
+A, C, C, C
+
+Step 706
+A, D, C, C
+suck
+A, C, C, C
+
+Step 707
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 708
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 709
+A, D, C, C
+suck
+A, C, C, C
+
+Step 710
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 711
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 712
+A, C, C, C
+Right
+B, C, C, C
+
+Step 713
+B, C, C, C
+Right
+C, C, C, C
+
+Step 714
+C, C, C, C
+Left
+B, C, C, C
+
+Step 715
+B, D, C, C
+Left
+A, D, C, C
+
+Step 716
+A, D, C, C
+suck
+A, C, C, C
+
+Step 717
+A, D, D, D
+suck
+A, C, D, D
+
+Step 718
+A, D, D, D
+suck
+A, C, D, D
+
+Step 719
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 720
+A, D, D, D
+suck
+A, C, D, D
+
+Step 721
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 722
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 723
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 724
+A, D, D, D
+suck
+A, C, D, D
+
+Step 725
+A, D, D, D
+suck
+A, C, D, D
+
+Step 726
+A, D, D, D
+suck
+A, C, D, D
+
+Step 727
+A, C, D, D
+Right
+B, C, D, D
+
+Step 728
+B, D, D, D
+suck
+B, D, C, D
+
+Step 729
+B, D, C, D
+Right
+C, D, C, D
+
+Step 730
+C, D, C, D
+suck
+C, D, C, C
+
+Step 731
+C, D, C, C
+Left
+B, D, C, C
+
+Step 732
+B, D, C, C
+Left
+A, D, C, C
+
+Step 733
+A, D, D, C
+suck
+A, C, D, C
+
+Step 734
+A, D, D, C
+suck
+A, C, D, C
+
+Step 735
+A, D, D, D
+suck
+A, C, D, D
+
+Step 736
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 737
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 738
+A, D, D, D
+suck
+A, C, D, D
+
+Step 739
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 740
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 741
+A, D, D, D
+suck
+A, C, D, D
+
+Step 742
+A, C, D, D
+Right
+B, C, D, D
+
+Step 743
+B, D, D, D
+suck
+B, D, C, D
+
+Step 744
+B, D, C, D
+Right
+C, D, C, D
+
+Step 745
+C, D, C, D
+suck
+C, D, C, C
+
+Step 746
+C, D, C, C
+Left
+B, D, C, C
+
+Step 747
+B, D, C, C
+Left
+A, D, C, C
+
+Step 748
+A, D, C, C
+suck
+A, C, C, C
+
+Step 749
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 750
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 751
+A, D, D, D
+suck
+A, C, D, D
+
+Step 752
+A, D, D, D
+suck
+A, C, D, D
+
+Step 753
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 754
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 755
+A, C, D, D
+Right
+B, C, D, D
+
+Step 756
+B, C, D, D
+suck
+B, C, C, D
+
+Step 757
+B, D, D, D
+suck
+B, D, C, D
+
+Step 758
+B, D, D, D
+suck
+B, D, C, D
+
+Step 759
+B, D, C, D
+Right
+C, D, C, D
+
+Step 760
+C, D, D, D
+suck
+C, D, D, C
+
+Step 761
+C, D, D, C
+Left
+B, D, D, C
+
+Step 762
+B, D, D, C
+suck
+B, D, C, C
+
+Step 763
+B, D, C, C
+Left
+A, D, C, C
+
+Step 764
+A, D, C, C
+suck
+A, C, C, C
+
+Step 765
+A, D, C, C
+suck
+A, C, C, C
+
+Step 766
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 767
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 768
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 769
+A, D, C, C
+suck
+A, C, C, C
+
+Step 770
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 771
+A, D, C, C
+suck
+A, C, C, C
+
+Step 772
+A, D, D, D
+suck
+A, C, D, D
+
+Step 773
+A, D, D, D
+suck
+A, C, D, D
+
+Step 774
+A, C, D, D
+Right
+B, C, D, D
+
+Step 775
+B, D, D, D
+suck
+B, D, C, D
+
+Step 776
+B, D, D, D
+suck
+B, D, C, D
+
+Step 777
+B, D, C, D
+Right
+C, D, C, D
+
+Step 778
+C, D, C, D
+suck
+C, D, C, C
+
+Step 779
+C, D, C, C
+Left
+B, D, C, C
+
+Step 780
+B, D, D, D
+suck
+B, D, C, D
+
+Step 781
+B, D, C, D
+Left
+A, D, C, D
+
+Step 782
+A, D, C, D
+suck
+A, C, C, D
+
+Step 783
+A, D, D, D
+suck
+A, C, D, D
+
+Step 784
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 785
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 786
+A, D, D, D
+suck
+A, C, D, D
+
+Step 787
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 788
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 789
+A, D, D, D
+suck
+A, C, D, D
+
+Step 790
+A, D, D, D
+suck
+A, C, D, D
+
+Step 791
+A, C, D, D
+Right
+B, C, D, D
+
+Step 792
+B, C, D, D
+suck
+B, C, C, D
+
+Step 793
+B, D, D, D
+suck
+B, D, C, D
+
+Step 794
+B, D, C, D
+Right
+C, D, C, D
+
+Step 795
+C, D, C, D
+suck
+C, D, C, C
+
+Step 796
+C, D, C, C
+Left
+B, D, C, C
+
+Step 797
+B, D, C, C
+Left
+A, D, C, C
+
+Step 798
+A, D, C, C
+suck
+A, C, C, C
+
+Step 799
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 800
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 801
+A, D, C, C
+suck
+A, C, C, C
+
+Step 802
+A, D, D, C
+suck
+A, C, D, C
+
+Step 803
+A, D, D, C
+suck
+A, C, D, C
+
+Step 804
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 805
+A, D, D, C
+suck
+A, C, D, C
+
+Step 806
+A, D, D, C
+suck
+A, C, D, C
+
+Step 807
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 808
+A, D, D, C
+suck
+A, C, D, C
+
+Step 809
+A, C, D, C
+Right
+B, C, D, C
+
+Step 810
+B, D, D, C
+suck
+B, D, C, C
+
+Step 811
+B, D, C, C
+Right
+C, D, C, C
+
+Step 812
+C, D, D, C
+Left
+B, D, D, C
+
+Step 813
+B, D, D, C
+suck
+B, D, C, C
+
+Step 814
+B, D, D, D
+suck
+B, D, C, D
+
+Step 815
+B, D, D, D
+suck
+B, D, C, D
+
+Step 816
+B, D, C, D
+Left
+A, D, C, D
+
+Step 817
+A, D, C, D
+suck
+A, C, C, D
+
+Step 818
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 819
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 820
+A, D, C, D
+suck
+A, C, C, D
+
+Step 821
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 822
+A, D, C, D
+suck
+A, C, C, D
+
+Step 823
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 824
+A, C, C, D
+Right
+B, C, C, D
+
+Step 825
+B, C, C, D
+Right
+C, C, C, D
+
+Step 826
+C, D, C, D
+suck
+C, D, C, C
+
+Step 827
+C, D, C, C
+Left
+B, D, C, C
+
+Step 828
+B, D, C, C
+Left
+A, D, C, C
+
+Step 829
+A, D, C, C
+suck
+A, C, C, C
+
+Step 830
+A, D, D, C
+suck
+A, C, D, C
+
+Step 831
+A, D, D, C
+suck
+A, C, D, C
+
+Step 832
+A, D, D, C
+suck
+A, C, D, C
+
+Step 833
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 834
+A, D, D, D
+suck
+A, C, D, D
+
+Step 835
+A, D, D, D
+suck
+A, C, D, D
+
+Step 836
+A, D, D, D
+suck
+A, C, D, D
+
+Step 837
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 838
+A, D, D, D
+suck
+A, C, D, D
+
+Step 839
+A, D, D, D
+suck
+A, C, D, D
+
+Step 840
+A, D, D, D
+suck
+A, C, D, D
+
+Step 841
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 842
+A, D, D, D
+suck
+A, C, D, D
+
+Step 843
+A, D, D, D
+suck
+A, C, D, D
+
+Step 844
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 845
+A, C, D, D
+Right
+B, C, D, D
+
+Step 846
+B, C, D, D
+suck
+B, C, C, D
+
+Step 847
+B, D, D, D
+suck
+B, D, C, D
+
+Step 848
+B, D, C, D
+Right
+C, D, C, D
+
+Step 849
+C, D, D, D
+suck
+C, D, D, C
+
+Step 850
+C, D, D, C
+Left
+B, D, D, C
+
+Step 851
+B, D, D, C
+suck
+B, D, C, C
+
+Step 852
+B, D, C, C
+Left
+A, D, C, C
+
+Step 853
+A, D, C, C
+suck
+A, C, C, C
+
+Step 854
+A, D, C, C
+suck
+A, C, C, C
+
+Step 855
+A, D, D, D
+suck
+A, C, D, D
+
+Step 856
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 857
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 858
+A, D, D, D
+suck
+A, C, D, D
+
+Step 859
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 860
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 861
+A, D, D, D
+suck
+A, C, D, D
+
+Step 862
+A, D, D, D
+suck
+A, C, D, D
+
+Step 863
+A, C, D, D
+Right
+B, C, D, D
+
+Step 864
+B, C, D, D
+suck
+B, C, C, D
+
+Step 865
+B, D, D, D
+suck
+B, D, C, D
+
+Step 866
+B, D, C, D
+Right
+C, D, C, D
+
+Step 867
+C, D, C, D
+suck
+C, D, C, C
+
+Step 868
+C, D, D, D
+suck
+C, D, D, C
+
+Step 869
+C, D, D, C
+Left
+B, D, D, C
+
+Step 870
+B, D, D, C
+suck
+B, D, C, C
+
+Step 871
+B, D, C, C
+Left
+A, D, C, C
+
+Step 872
+A, D, D, C
+suck
+A, C, D, C
+
+Step 873
+A, D, D, C
+suck
+A, C, D, C
+
+Step 874
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 875
+A, D, D, C
+suck
+A, C, D, C
+
+Step 876
+A, D, D, C
+suck
+A, C, D, C
+
+Step 877
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 878
+A, D, D, C
+suck
+A, C, D, C
+
+Step 879
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 880
+A, D, D, D
+suck
+A, C, D, D
+
+Step 881
+A, D, D, D
+suck
+A, C, D, D
+
+Step 882
+A, D, D, D
+suck
+A, C, D, D
+
+Step 883
+A, D, D, D
+suck
+A, C, D, D
+
+Step 884
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 885
+A, D, D, D
+suck
+A, C, D, D
+
+Step 886
+A, D, D, D
+suck
+A, C, D, D
+
+Step 887
+A, D, D, D
+suck
+A, C, D, D
+
+Step 888
+A, D, D, D
+suck
+A, C, D, D
+
+Step 889
+A, C, D, D
+Right
+B, C, D, D
+
+Step 890
+B, C, D, D
+suck
+B, C, C, D
+
+Step 891
+B, C, C, D
+Right
+C, C, C, D
+
+Step 892
+C, C, C, D
+suck
+C, C, C, C
+
+Step 893
+C, D, C, C
+Left
+B, D, C, C
+
+Step 894
+B, D, C, C
+Left
+A, D, C, C
+
+Step 895
+A, D, C, C
+suck
+A, C, C, C
+
+Step 896
+A, D, D, D
+suck
+A, C, D, D
+
+Step 897
+A, D, D, D
+suck
+A, C, D, D
+
+Step 898
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 899
+A, D, D, D
+suck
+A, C, D, D
+
+Step 900
+A, D, D, D
+suck
+A, C, D, D
+
+Step 901
+A, D, D, D
+suck
+A, C, D, D
+
+Step 902
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 903
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 904
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 905
+A, C, D, D
+Right
+B, C, D, D
+
+Step 906
+B, D, D, D
+suck
+B, D, C, D
+
+Step 907
+B, D, C, D
+Right
+C, D, C, D
+
+Step 908
+C, D, C, D
+suck
+C, D, C, C
+
+Step 909
+C, D, D, D
+suck
+C, D, D, C
+
+Step 910
+C, D, D, C
+Left
+B, D, D, C
+
+Step 911
+B, D, D, C
+suck
+B, D, C, C
+
+Step 912
+B, D, D, C
+suck
+B, D, C, C
+
+Step 913
+B, D, C, C
+Left
+A, D, C, C
+
+Step 914
+A, D, C, C
+suck
+A, C, C, C
+
+Step 915
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 916
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 917
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 918
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 919
+A, C, C, C
+Right
+B, C, C, C
+
+Step 920
+B, C, C, C
+Right
+C, C, C, C
+
+Step 921
+C, D, C, C
+Left
+B, D, C, C
+
+Step 922
+B, D, C, C
+Left
+A, D, C, C
+
+Step 923
+A, D, C, C
+suck
+A, C, C, C
+
+Step 924
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 925
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 926
+A, D, D, C
+suck
+A, C, D, C
+
+Step 927
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 928
+A, D, D, C
+suck
+A, C, D, C
+
+Step 929
+A, D, D, C
+suck
+A, C, D, C
+
+Step 930
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 931
+A, D, D, D
+suck
+A, C, D, D
+
+Step 932
+A, C, D, D
+Right
+B, C, D, D
+
+Step 933
+B, C, D, D
+suck
+B, C, C, D
+
+Step 934
+B, C, C, D
+Right
+C, C, C, D
+
+Step 935
+C, D, D, D
+suck
+C, D, D, C
+
+Step 936
+C, D, D, C
+Left
+B, D, D, C
+
+Step 937
+B, D, D, D
+suck
+B, D, C, D
+
+Step 938
+B, D, C, D
+Left
+A, D, C, D
+
+Step 939
+A, D, C, D
+suck
+A, C, C, D
+
+Step 940
+A, D, C, D
+suck
+A, C, C, D
+
+Step 941
+A, C, C, D
+noOp
+A, C, C, D
+
+Step 942
+A, D, D, D
+suck
+A, C, D, D
+
+Step 943
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 944
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 945
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 946
+A, C, D, D
+Right
+B, C, D, D
+
+Step 947
+B, D, D, D
+suck
+B, D, C, D
+
+Step 948
+B, D, C, D
+Right
+C, D, C, D
+
+Step 949
+C, D, C, D
+suck
+C, D, C, C
+
+Step 950
+C, D, C, C
+Left
+B, D, C, C
+
+Step 951
+B, D, C, C
+Left
+A, D, C, C
+
+Step 952
+A, D, C, C
+suck
+A, C, C, C
+
+Step 953
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 954
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 955
+A, D, D, D
+suck
+A, C, D, D
+
+Step 956
+A, D, D, D
+suck
+A, C, D, D
+
+Step 957
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 958
+A, D, D, D
+suck
+A, C, D, D
+
+Step 959
+A, D, D, D
+suck
+A, C, D, D
+
+Step 960
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 961
+A, D, D, D
+suck
+A, C, D, D
+
+Step 962
+A, D, D, D
+suck
+A, C, D, D
+
+Step 963
+A, C, D, D
+Right
+B, C, D, D
+
+Step 964
+B, D, D, D
+suck
+B, D, C, D
+
+Step 965
+B, D, C, D
+Right
+C, D, C, D
+
+Step 966
+C, D, C, D
+suck
+C, D, C, C
+
+Step 967
+C, D, C, C
+Left
+B, D, C, C
+
+Step 968
+B, D, C, C
+Left
+A, D, C, C
+
+Step 969
+A, D, C, C
+suck
+A, C, C, C
+
+Step 970
+A, C, C, C
+noOp
+A, C, C, C
+
+Step 971
+A, D, D, D
+suck
+A, C, D, D
+
+Step 972
+A, D, D, D
+suck
+A, C, D, D
+
+Step 973
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 974
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 975
+A, D, D, D
+suck
+A, C, D, D
+
+Step 976
+A, D, D, D
+suck
+A, C, D, D
+
+Step 977
+A, D, D, D
+suck
+A, C, D, D
+
+Step 978
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 979
+A, C, D, D
+Right
+B, C, D, D
+
+Step 980
+B, C, D, D
+suck
+B, C, C, D
+
+Step 981
+B, C, C, D
+Right
+C, C, C, D
+
+Step 982
+C, D, C, D
+suck
+C, D, C, C
+
+Step 983
+C, D, C, C
+Left
+B, D, C, C
+
+Step 984
+B, D, D, C
+suck
+B, D, C, C
+
+Step 985
+B, D, C, C
+Left
+A, D, C, C
+
+Step 986
+A, D, C, C
+suck
+A, C, C, C
+
+Step 987
+A, D, D, C
+suck
+A, C, D, C
+
+Step 988
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 989
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 990
+A, D, D, C
+suck
+A, C, D, C
+
+Step 991
+A, D, D, C
+suck
+A, C, D, C
+
+Step 992
+A, C, D, C
+noOp
+A, C, D, C
+
+Step 993
+A, D, D, D
+suck
+A, C, D, D
+
+Step 994
+A, C, D, D
+noOp
+A, C, D, D
+
+Step 995
+A, D, D, D
+suck
+A, C, D, D
+
+Step 996
+A, C, D, D
+Right
+B, C, D, D
+
+Step 997
+B, C, D, D
+suck
+B, C, C, D
+
+Step 998
+B, C, C, D
+Right
+C, C, C, D
+
+Step 999
+C, C, C, D
+suck
+C, C, C, C
+
+Step 1000
+C, C, C, C
+Left
+B, C, C, C
+
+Total point : 366.0

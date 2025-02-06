@@ -1,0 +1,4 @@
+start_node: c2
+goal_nodes: c7 f7 g2 h5 h8
+trap_nodes: b4 c6 d1 d2 e3 f1 g1 g6 g8
+walls: a2-a3 a4-b4 a6-b6 a7-b7 b1-b2 b4-b5 b5-b6 b2-c2 b3-c3 b7-c7 c2-c3 c3-c4 c7-c8 c4-d4 c5-d5 c7-d7 d1-d2 d3-d4 d5-d6 d6-d7 d7-e7 e1-e2 e2-e3 e3-e4 e4-e5 e5-e6 e6-e7 e7-e8 e2-f2 f4-f5 f5-f6 f6-f7 f2-g2 f3-g3 f4-g4 f7-g7 g4-g5 g5-g6 g7-g8 g2-h2 g5-h5 g6-h6 h2-h3 h3-h4 h4-h5 h7-h8
